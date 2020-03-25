@@ -1,0 +1,1 @@
+# NOMURA_text_mining
