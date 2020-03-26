@@ -1,40 +1,40 @@
-Name,Score,Title,Content
-iFailedPreK,368,"Index Funds vs Mutual Funds vs Individual Stocks vs ETFs vs Bonds, etc.","What's your favorite and why? Which do you think offers the best return, and which do you think offers the safest path? I'd love to hear all of your opinions."
-skilliard7,72,This crisis is a good example of why ETFs> Mutual funds,"With a mutual fund, you have absolutely 0 control over what price you buy or sell at. They only sell after market close, for whatever price it's at.
+Date,Name,Score,Title,Content
+2019-04-28,iFailedPreK,378,"Index Funds vs Mutual Funds vs Individual Stocks vs ETFs vs Bonds, etc.","What's your favorite and why? Which do you think offers the best return, and which do you think offers the safest path? I'd love to hear all of your opinions."
+2020-03-25,skilliard7,74,This crisis is a good example of why ETFs> Mutual funds,"With a mutual fund, you have absolutely 0 control over what price you buy or sell at. They only sell after market close, for whatever price it's at.
 
 You can put in  sell order to sell 100 shares of a mutual fund, but with recent volatility, you don't know if that will be $10,000, $9,000, $11,000, etc. 
 
 Technically, ETFs can differ from the NAV too, especially during times of economic crisis, but that's very clear when you sell or buy. You can put in a limit order and be fine.
 
 With most brokers abandoning stock commissions, I can't think of a single good reason to use a mutual fund over an ETF. Prove me wrong."
-chargum,41,Many of my friends in the Investment Club are cutting their losses and selling all their stocks and mutual funds,"I belong to an investment club connected with a megachurch.  Most of the members are baby boomers. One of the main pieces of advice given to us by a wide variety of speakers is to not sell your stocks in a panic during a bear market or even in a huge market crash.  (Such as 2000-2002 or 2007-2009)  Instead, during a bear market, we should be buying stocks not selling them.
+2020-03-12,chargum,39,Many of my friends in the Investment Club are cutting their losses and selling all their stocks and mutual funds,"I belong to an investment club connected with a megachurch.  Most of the members are baby boomers. One of the main pieces of advice given to us by a wide variety of speakers is to not sell your stocks in a panic during a bear market or even in a huge market crash.  (Such as 2000-2002 or 2007-2009)  Instead, during a bear market, we should be buying stocks not selling them.
 
 During the first 10 days of this crisis, we all were cocky and acted like this was not a big thing.  But as the stock market kept falling and it appeared our political and business leaders were failing us, more and more members of the club reported that they had sold most or all of their stock investments and went to bond funds.
 
 Now the Bond Market has even turned against us.  During the last 5 days, I have seen drops in bond mutual funds that were more extreme than even the Great Recession.  Even ultra-short bond ETF's like GSY has dropped in value significantly.
 
 Many members of the Investment club are saying- THIS TIME IS DIFFERENT- and wish they would have gone to all-cash 2 weeks ago but some are holding out selling because they are already down significantly and are too proud to move from paper losses to real losses."
-nasdack,14,"If passive investing in an index fund is often statistically superior to actively managed strategies, why do people still invest in mutual funds/stock pickings/esoteric securities/etc?",
-SmartassRemarks,65,Those who invest their taxable holdings in mutual funds over ETFs: Why?,
-4ShotFed,9,Why would I want dividends? It is just forced liquidation and and a forced taxable event. Are there any good index ETFs or mutual funds that never pay dividends?,"If I am being an idiot here, feel free to destroy me but I fail to understand why anyone would ever want a dividend. 
+2020-03-26,nasdack,11,"If passive investing in an index fund is often statistically superior to actively managed strategies, why do people still invest in mutual funds/stock pickings/esoteric securities/etc?",
+2020-02-16,SmartassRemarks,64,Those who invest their taxable holdings in mutual funds over ETFs: Why?,
+2020-02-23,4ShotFed,8,Why would I want dividends? It is just forced liquidation and and a forced taxable event. Are there any good index ETFs or mutual funds that never pay dividends?,"If I am being an idiot here, feel free to destroy me but I fail to understand why anyone would ever want a dividend. 
 
 If I am in a high tax bracket this year and next year I plan on being in a lower tax bracket, then I would much rather liquidate of my own volition next year instead of being forced to liquidate via a dividend this year. This problem applies to both ordinary and qualified dividends.
 
 Furthermore, if you have automatic dividend reinvestment turned on, you are likely going to end up acquiring partial shares of the underlying security. Depending on your brokerage, these may incur fees or take longer to liquidate when the time comes.
 
 Are there any index ETFs or funds that never pay dividends?"
-Br1ghtest,7,Bond Mutual Funds question,"Hey, trying to understand the following - 
+2020-03-14,Br1ghtest,5,Bond Mutual Funds question,"Hey, trying to understand the following - 
 
 1. why safe bond mutual funds see drops now as well?
 2. at what point should their price stop decreasing, considering there's no increase of interest?
 3. unlike buying bonds directly, with mutual funds you can't hold to it until expiration for the interest and finally receiving back the initial fund. doesn't it make them much riskier? basically like a lighter version of stock mutual bonds?
 
 Thanks!"
-RunawayMeatstick,5,Mutual fund seeks offers on $1bn of mortgage bonds,"Is this the mortgage market unraveling or just investors losing confidence in funds who invest in those markets?
+2020-03-23,RunawayMeatstick,5,Mutual fund seeks offers on $1bn of mortgage bonds,"Is this the mortgage market unraveling or just investors losing confidence in funds who invest in those markets?
 
 Edit: This is weirdly paywalled but only if you click through reddit. If you google the link it works  
 https://www.ft.com/content/3bd7223e-6c89-11ea-89df-41bea055720b"
-chargum,0,I will never buy a Bond ETF or Mutual Fund again!,"Lost in the discussion about the rapid loss in stocks and stock mutual funds and ETF's is the incredible loss in many bond mutual funds and ETF's.
+2020-03-20,chargum,0,I will never buy a Bond ETF or Mutual Fund again!,"Lost in the discussion about the rapid loss in stocks and stock mutual funds and ETF's is the incredible loss in many bond mutual funds and ETF's.
 
 Bond Funds were supposed to be a counterweight to stocks in a bear market!  While the Bond Funds and ETF's did not fall as much as stocks the decrease in their price per share in the last 30 days has been more than anytime in history.
 
@@ -53,11 +53,11 @@ LQD (Corporate Bonds) Down 29.22%
 HYG (Corporate Bond) 18.93%
 
 Go to websites like Portfolio Visualizer and you will see there has never been drops like this ever!"
-MysteriousPlantain,0,What is the average yearly return I can expect from mutual fund?,
-LateralEntry,5,ETF vs mutual fund - different losses,"I thought this was interesting.  I own Vanguard's total bond fund as both a mutual fund and ETF.  The ETF went down about 5% yesterday, while the mutual fund only went down 1%.  The funds have what should be identical holdings, but the ETF can be traded intra-day, and the mutual fund traded at the end of the day.
+2020-03-10,MysteriousPlantain,0,What is the average yearly return I can expect from mutual fund?,
+2020-03-13,LateralEntry,7,ETF vs mutual fund - different losses,"I thought this was interesting.  I own Vanguard's total bond fund as both a mutual fund and ETF.  The ETF went down about 5% yesterday, while the mutual fund only went down 1%.  The funds have what should be identical holdings, but the ETF can be traded intra-day, and the mutual fund traded at the end of the day.
 
 I'm not sure what this reflects - maybe the momentum of panic selling over the course of the day?  But perhaps mutual funds will hold value better in these uncertain times."
-ilovehomeec,0,Purchased First Mutual Fund! Totally Lost Still..,"After a few weeks of studying on Mutual Funds I went ahead and zeroed out my savings account of $10,000. Its not a lot, I know, but it is what it is. 
+2020-03-05,ilovehomeec,0,Purchased First Mutual Fund! Totally Lost Still..,"After a few weeks of studying on Mutual Funds I went ahead and zeroed out my savings account of $10,000. Its not a lot, I know, but it is what it is. 
 
 I've been studying and studying about investments and mutual funds but there are still a plethora of questions I'm confused about that I can't find clear answers on. To be fair, it might not be clear as I'm still a novice in this.  
 For example, I know I'm taxed on capital gains or when I receive dividends but to my understanding the capital gains (taxes) are only triggered when I **sell** the mutual funds. If I just park my money in there for 30 years, I won't be taxed at all, except on the funds that issue dividends, correct?
@@ -68,15 +68,15 @@ For example, if a mutual fund does well and I want to sell it for some cash to u
 Lastly, would I be taxed on sales that are under the initial purchase price? If I purchased 10K worth of shares in one MF but then I chose to just sell 6K worth, would I be taxed on the 6K even though the initial 10K investment was from a savings account that shouldn't be taxed?
 
 https://imgur.com/vdisGJl"
-mtl_dood,11,Are there any bearish/short mutual funds?,I am not looking for an inverse ETF. Those will have a decay and be worthless if I hold. I am looking for a mutual fund which is actively managed but which aims to make money in a bear market by shorting stocks.
-chargum,14,Bond Mutual Funds with a high percentage of junk bonds are interesting but scary,"I have been researching bond mutual funds for my retirement portfolio.  I have found a number with good returns (for bond funds) about 5% CAGR over the last five years that have a very low standard deviation and very low maximum drawdown.  They seem great but I see that over 50% of their bond holdings are in junk bonds that rated BB or below.
+2020-02-24,mtl_dood,13,Are there any bearish/short mutual funds?,I am not looking for an inverse ETF. Those will have a decay and be worthless if I hold. I am looking for a mutual fund which is actively managed but which aims to make money in a bear market by shorting stocks.
+2020-02-25,chargum,14,Bond Mutual Funds with a high percentage of junk bonds are interesting but scary,"I have been researching bond mutual funds for my retirement portfolio.  I have found a number with good returns (for bond funds) about 5% CAGR over the last five years that have a very low standard deviation and very low maximum drawdown.  They seem great but I see that over 50% of their bond holdings are in junk bonds that rated BB or below.
 
 Do you play it safe with your bond fund purchases - (with AAA  to BBB quality bonds) and get the standard 3% CAGR or do you play it a bit more dangerous and get a 5% CAGR with BB to C level bonds?
 
 The safer choice= **FTBFX (Expected CAGR about 3%)**
 
 The riskier choice but with a higher return:  **JMUTX or BMSAX (Expected CAGR of about 5-6%)**"
-I_am_Searching,3,Question on mutual fund / etf fees,"So, so many posts say to avoid fees like the plague.  But, I never understood the logic if the fund has a great 15 year return average.
+2020-02-20,I_am_Searching,4,Question on mutual fund / etf fees,"So, so many posts say to avoid fees like the plague.  But, I never understood the logic if the fund has a great 15 year return average.
 
 Let's say a mutual fund has a 10% 15 year average return and a 1% annual fee (and assuming the 5 year average is also looking comperable). Then we could say the average 15 year return is 10% - 1% = 9%.
 
@@ -87,7 +87,7 @@ Why wouldn't you choose the Mutual fund?  I understand not every year will be th
 Can someone explain their reasoning?
 
 Am I missing something obvious?"
-MasterCookSwag,203,Experience a large unexpected drop in your mutual fund recently? Read this before making your own post please.,"Every year in December we start to get 5-10 posts a day asking this question. Rather than have a ton of clutter in the sub I'm going to be stickying this post until the end of the month.
+2019-12-17,MasterCookSwag,207,Experience a large unexpected drop in your mutual fund recently? Read this before making your own post please.,"Every year in December we start to get 5-10 posts a day asking this question. Rather than have a ton of clutter in the sub I'm going to be stickying this post until the end of the month.
 
 A mutual fund is essentially just a basket of individual stocks/bonds/whatever. Within that basket the fund managers are constantly selling/buying and receiving dividends. The IRS has special rules for mutual funds which allow them to not pay taxes on the capital gains/dividends generated provided they pass through almost all of the proceeds from said activities to the shareholder within the calendar year. So dividends are often paid on some set schedule but capital gains are generally retained within the fund till the end of the year(because losses can reduce gains but can't be distributed to a shareholder). 
 
@@ -104,13 +104,13 @@ https://mutualfundobserver.com/discuss/discussion/52943/2019-capital-gains-distr
 Ctrl + f your fund family. Chances are it's on one of these two pages. If not, google search ""______ funds capital gains distributions 2016""
 
 Please note we'll probably be deleting any threads on the subject and pointing people here in order to keep the clutter down."
-Unsolicitedadvice86,0,Mutual Funds Trades if Market Closes,"Given that transactions for funds like VTSAX usually go through at the end of the day, what would happen if they halted trading for the day or for a few weeks?
+2020-03-16,Unsolicitedadvice86,0,Mutual Funds Trades if Market Closes,"Given that transactions for funds like VTSAX usually go through at the end of the day, what would happen if they halted trading for the day or for a few weeks?
 
 If an order was placed prior to the trades being halted, would it be reflected at the end of the day or would that transaction be delayed and would the purchase price be affected by that?"
-pamplemusique,0,What is the point of index mutual funds now that index ETFs exist?,"Been paying more attention to the market the last couple of weeks. I don’t believe I’m smarter than a bunch of equity researchers, so I just buy a few broad indexes. On multiple recent days I had a theory about what VTI should be worth and made a conscious effort to pay attention to its closing price in the last 10 minutes of the trading day to decide how much to put into VTSAX. It would have been so much easier if I had a limit order on VTI at what I thought it was worth and let that execute if it hit than to watch the market like that.
+2020-03-07,pamplemusique,0,What is the point of index mutual funds now that index ETFs exist?,"Been paying more attention to the market the last couple of weeks. I don’t believe I’m smarter than a bunch of equity researchers, so I just buy a few broad indexes. On multiple recent days I had a theory about what VTI should be worth and made a conscious effort to pay attention to its closing price in the last 10 minutes of the trading day to decide how much to put into VTSAX. It would have been so much easier if I had a limit order on VTI at what I thought it was worth and let that execute if it hit than to watch the market like that.
 
 So given those dynamics, why should anyone invest in indexed mutual funds when comparable ETFs exist, like VTSAX over VTI? Is there some kind of protection in them that I’m not seeing that’s worth the ever so slightly higher expense ratio? Is the only benefit to mutual funds being able to buy $ amounts and not only entire shares?"
-PM_ME_YOUR_INVESTMEN,0,is there any justification fro high expense ratio etf and mutual funds?,"I am going to ask my portfolio manager about selling high expenses ratio funds. equity funds are 17% and etfs are 7% of my portfolio. Are there any good reasons for keeping these instead of equivalent equities or similar low cost funds.  Are there any nefarious reasons? do managers get a cut or incentive? I want to be prepared for this conversation. Thanks. 
+2020-03-07,PM_ME_YOUR_INVESTMEN,0,is there any justification fro high expense ratio etf and mutual funds?,"I am going to ask my portfolio manager about selling high expenses ratio funds. equity funds are 17% and etfs are 7% of my portfolio. Are there any good reasons for keeping these instead of equivalent equities or similar low cost funds.  Are there any nefarious reasons? do managers get a cut or incentive? I want to be prepared for this conversation. Thanks. 
 
 scz .4
 
@@ -135,12 +135,12 @@ miptx .88
 maptx 1.04
 
 Can you explain what  vcmix and vcrrx are?"
-iamnotsurebuticouldb,7,Mutual fund advice,"Retired couple (m 65) (f 68). We have about 1.2 million. No mortgage. Some outside income. Require 30k per year from investment for living expenses in addition to our outside income. Investment goal is preservation first moderate growth second but expected. (F68 has about 280 K in IRAs. (M 65) has about 700 in IRAs. Joint is about 240K nonIRA. Investments will all be mutual funds. 
+2020-02-15,iamnotsurebuticouldb,7,Mutual fund advice,"Retired couple (m 65) (f 68). We have about 1.2 million. No mortgage. Some outside income. Require 30k per year from investment for living expenses in addition to our outside income. Investment goal is preservation first moderate growth second but expected. (F68 has about 280 K in IRAs. (M 65) has about 700 in IRAs. Joint is about 240K nonIRA. Investments will all be mutual funds. 
 
 How would you invest the three portfolios? How would you divide them into short term, medium term and long term investments? 
 
 Thanks in advance."
-gkupp21,0,Mutual Fund or Robinhood?,"Hey r/investing. Newbie here.
+2020-02-27,gkupp21,0,Mutual Fund or Robinhood?,"Hey r/investing. Newbie here.
 
 So far my investing history had me try my hand at forex some years ago (I’m currently 27) but I did not put enough time into it to get good results and ultimately gave up. So I’m trying to get back into the whole investing thing, and starting off with more passive options.
 
@@ -150,54 +150,54 @@ I’m debating between starting a Robinhood account or putting money in a mutual
 Looking to play with $4k-$5k for this excursion. 
 
 Thanks all and may your wallets become happier."
-Mr_Walts,0,Should I sell my mutual fund and invest in an ETF or other stocks instead?,"So I'm with TD Bank ( I live in Canada ) and I currently have a mutual fund. I opened it in January and since made around 400 dollars but 2 or 3 days ago it went down and now I'm at a loss for 100 dollars. I wanted to sell it and transfer the funds into my direct investing account but now that I'm at a loss, I was wondering if I should just wait till I'm back at where I bought it or if I should just go ahead and transfer the money, especially now that the prices are down? 
+2020-02-28,Mr_Walts,0,Should I sell my mutual fund and invest in an ETF or other stocks instead?,"So I'm with TD Bank ( I live in Canada ) and I currently have a mutual fund. I opened it in January and since made around 400 dollars but 2 or 3 days ago it went down and now I'm at a loss for 100 dollars. I wanted to sell it and transfer the funds into my direct investing account but now that I'm at a loss, I was wondering if I should just wait till I'm back at where I bought it or if I should just go ahead and transfer the money, especially now that the prices are down? 
 
 Thanks for your advice"
-5dawahares,3,Benefits of ETFs over Mutual Funds?,"I’m new to the stock market in general and would like more opinions on ETFs vs Mutual Funds. Also any helpful articles, books, podcasts, etc that you would suggest would be more than appreciated."
-chargum,0,Corporate Bond ETF's and Mutual Funds biggest one day drop ever,Corporate Bond ETF's and Mutual Funds are known as having a bit more volatility than Bond Funds like AGG and BND- which have mostly grade A Treasury Bonds- but today's loss of bond funds like LQD and HYG was close to the crashing stock funds. LQD is down 2.29% and HYG is down over 4%. Have you ever seen a one day drop of these previously relatively safe bond funds?
-Santafromhf,31,"Looking for moderate mutual fund or stock to invest, instead of paying off mortgage, or VOO s&p 500","Hello,
+2020-02-17,5dawahares,2,Benefits of ETFs over Mutual Funds?,"I’m new to the stock market in general and would like more opinions on ETFs vs Mutual Funds. Also any helpful articles, books, podcasts, etc that you would suggest would be more than appreciated."
+2020-03-09,chargum,0,Corporate Bond ETF's and Mutual Funds biggest one day drop ever,Corporate Bond ETF's and Mutual Funds are known as having a bit more volatility than Bond Funds like AGG and BND- which have mostly grade A Treasury Bonds- but today's loss of bond funds like LQD and HYG was close to the crashing stock funds. LQD is down 2.29% and HYG is down over 4%. Have you ever seen a one day drop of these previously relatively safe bond funds?
+2020-01-01,Santafromhf,29,"Looking for moderate mutual fund or stock to invest, instead of paying off mortgage, or VOO s&p 500","Hello,
 
 My wife(25) and I(28) have a 30 year loan 4.25% (second house) $192k balance 
 
 Instead of paying extra to pay it off in 15 years, we think we could earn more investing.
 
 Do y’all have any suggestions of mutual funds that have brought back an average 5-6% returns? Or would the s&p 500 VOO stock be better buy?"
-sloth49,0,Buying Mutual Funds,"VTSAX is currently at $73.76 NAV.  If I buy right now, will my order execute at $73.76, or will it execute at whatever the new price is at the end of day (assuming it will be <$73.76)."
-bear-rah,0,approx how much will fees be if i sell fidelity mutual funds?,"approx how much will fees/taxes be if i sell $15k of fidelity mutual funds?  just looking for a rough estimate, will it be over 1-2k?  i have mainly fffhx and ffnox if that matters
+2020-02-28,sloth49,0,Buying Mutual Funds,"VTSAX is currently at $73.76 NAV.  If I buy right now, will my order execute at $73.76, or will it execute at whatever the new price is at the end of day (assuming it will be <$73.76)."
+2020-02-29,bear-rah,0,approx how much will fees be if i sell fidelity mutual funds?,"approx how much will fees/taxes be if i sell $15k of fidelity mutual funds?  just looking for a rough estimate, will it be over 1-2k?  i have mainly fffhx and ffnox if that matters
 
 i am debating whether to hold on to this (in the long term, the market will probably go back up) or sell it and keep it in cash for a while and if stock prices drop even lower then buy again.  i am afraid it will get even lower if i dont sell it
 
 &#x200B;"
-thatsizz,0,Why are etfs and mutual funds tracking the same index varying so wildly ?,For example the vanguard total bond mutual fund Vbmfx was only down  about .25% while the etf bnd was down 5.44%
-johnmosesman,0,"Common advice: ""mutual funds don't beat the index"" -- where does this data come from?","Many places in this subreddit and online often state that on average a mutual fund won't outperform the s&p 500 index.
+2020-03-12,thatsizz,0,Why are etfs and mutual funds tracking the same index varying so wildly ?,For example the vanguard total bond mutual fund Vbmfx was only down  about .25% while the etf bnd was down 5.44%
+2020-03-02,johnmosesman,0,"Common advice: ""mutual funds don't beat the index"" -- where does this data come from?","Many places in this subreddit and online often state that on average a mutual fund won't outperform the s&p 500 index.
 
 Where can you view the data to back up this claim? Is there a place online this has already been aggregated?"
-gneissandtuff,9,"How important is the Morningstar rating, and is it a primary consideration for you when selecting (or deciding to sell) a mutual fund?",
-victoryknocks1000,0,Mutual Fund during a recession ?,"I am kind of worried about my investment into mutual funds, as i see the stock market crashing this week and of inevitable recession. Should I pull out of it or should I remain steadfast as I am playing “long-game” afterall. I have a fund manager so I’m not in direct control of the funds too. What is the best thing for me to do. Stay in or stay out"
-deadguys,13,How do zero cost mutual funds make money?,"I’m looking at Fidelity ZERO Total Market Index Fund (FZROX). It doesn’t charge any fees and the expense ratios are zero. What’s the catch? I understand they are managing this less actively than some of their other funds, but they still must be making money off this. How do they do it?"
-ramadan-steve_,0,When does a mutual fund transaction occur?,"I just started using Fidelity and is my first time investing.  I have been keeping an eye on some of Fidelity’s no transaction fee mutual funds and set an alert to let me know when a fund dropped below a certain point.
+2020-01-23,gneissandtuff,5,"How important is the Morningstar rating, and is it a primary consideration for you when selecting (or deciding to sell) a mutual fund?",
+2020-02-27,victoryknocks1000,0,Mutual Fund during a recession ?,"I am kind of worried about my investment into mutual funds, as i see the stock market crashing this week and of inevitable recession. Should I pull out of it or should I remain steadfast as I am playing “long-game” afterall. I have a fund manager so I’m not in direct control of the funds too. What is the best thing for me to do. Stay in or stay out"
+2020-01-09,deadguys,14,How do zero cost mutual funds make money?,"I’m looking at Fidelity ZERO Total Market Index Fund (FZROX). It doesn’t charge any fees and the expense ratios are zero. What’s the catch? I understand they are managing this less actively than some of their other funds, but they still must be making money off this. How do they do it?"
+2020-02-26,ramadan-steve_,0,When does a mutual fund transaction occur?,"I just started using Fidelity and is my first time investing.  I have been keeping an eye on some of Fidelity’s no transaction fee mutual funds and set an alert to let me know when a fund dropped below a certain point.
 
 I got the alert yesterday and with the dip in the market, I decided now was a good time to finally buy.  I placed an order yesterday after the market was closed (around 6pm CT).  I’ve been keeping an eye on it to see if the transaction would go through today but the order is still open.  Also, this fund dropped about 2% today so if the order goes through tomorrow, will the purchase price be the price at the time the order executes or from when I put in the order?
 
 I guess what I’m wondering is typically how long does it take for the order to execute and at what price will it buy at?  Thanks!"
-si-lyo,0,"HELP; I’ve got a portfolio of £8,500 and I have invested in 3 tech mutual funds and 1 American growth fund. How can I diversify my portfolio with a mutual fund that will still bring a stable return? Any recommendations? I feel I have very high exposure in tech/American tech and really need help.",
-Kingpin0825,0,"Mutual Fund Weekend Buy, March 7th: Investing Win?","In light of recent events I wanted to gain some clarification to determine the timing of my weekend purchase. I purchased shares of a mutual fund through Vanguard on March 7th. Based on my cursory search it looks like the purchase price is based on the closing price on Monday, March 9th, the worst day in recent history. Investing win? What say you Reddit?"
-msiekkinen,89,PSA: Why did my [mutual-fund-name] just drop in value when everything else is up?,"Reminder, or if you're new, at the end of year mutual funds have distributions of dividends and cap gains.  
+2020-02-28,si-lyo,0,"HELP; I’ve got a portfolio of £8,500 and I have invested in 3 tech mutual funds and 1 American growth fund. How can I diversify my portfolio with a mutual fund that will still bring a stable return? Any recommendations? I feel I have very high exposure in tech/American tech and really need help.",
+2020-03-11,Kingpin0825,0,"Mutual Fund Weekend Buy, March 7th: Investing Win?","In light of recent events I wanted to gain some clarification to determine the timing of my weekend purchase. I purchased shares of a mutual fund through Vanguard on March 7th. Based on my cursory search it looks like the purchase price is based on the closing price on Monday, March 9th, the worst day in recent history. Investing win? What say you Reddit?"
+2019-12-17,msiekkinen,85,PSA: Why did my [mutual-fund-name] just drop in value when everything else is up?,"Reminder, or if you're new, at the end of year mutual funds have distributions of dividends and cap gains.  
 
 The day or so after you have see a sharp drop is NAV you'll be getting a larger cash distribution."
-tryn2figurestuffout,4,"Have any actively managed mutual funds beat the market consistently over 30 years? New to investing, not sure who to believe Dave Ramsey or The Bogleheads","Do I just do a three fund portfolio against index funds (primary being total stock or s&p), or is Dave Ramsey right and I should find mutual funds? Looking for an answer backed up with data. I see plenty of funds beating the market over the past 10 years (even factoring in > expense ratios), but what about longer?
+2019-12-25,tryn2figurestuffout,3,"Have any actively managed mutual funds beat the market consistently over 30 years? New to investing, not sure who to believe Dave Ramsey or The Bogleheads","Do I just do a three fund portfolio against index funds (primary being total stock or s&p), or is Dave Ramsey right and I should find mutual funds? Looking for an answer backed up with data. I see plenty of funds beating the market over the past 10 years (even factoring in > expense ratios), but what about longer?
 
 EDIT: Thanks for answering my questions everyone, it is helpful in my learning process."
-TheRealJeffRichards,1,price determination of mutual funds before market close?,"Say I am selling some mutual fund shares.
+2020-02-18,TheRealJeffRichards,1,price determination of mutual funds before market close?,"Say I am selling some mutual fund shares.
 I put in the order today, the sale goes through after market close. 
  But the actual share prices are only updated once a day so as far as I understand it I can only get a quote for essentially the previous day's price.   
 
 For funds like Vanguard Index 500(VFINX), can I simply look at the ETF equivalent(VOO)?   
 Is there any way to know/estimate what the share price will be for a mutual fund given the current DOW/S&P/etc?"
-travelooye,6,VGT and MGK equivalent mutual fund recommendations,"Hello r/investing, I invest in VGT and MGK on a monthly basis. I am happy with the funds but since these are ETF funds which donot allow for automatic investments, I have to place orders manually.
+2020-01-12,travelooye,7,VGT and MGK equivalent mutual fund recommendations,"Hello r/investing, I invest in VGT and MGK on a monthly basis. I am happy with the funds but since these are ETF funds which donot allow for automatic investments, I have to place orders manually.
 
 Are there equivalent mutual funds which have similar underlying tech stock exposure for which I can enroll in automatic investments."
-chargum,0,"In a Bear Market, it is much better to break your investments in separate total stock and total bond funds than use balanced mutual funds in retirement","I want to show you the math behind the advantages of having separate total stock and total bond funds vs using balanced mutual funds.
+2020-03-02,chargum,0,"In a Bear Market, it is much better to break your investments in separate total stock and total bond funds than use balanced mutual funds in retirement","I want to show you the math behind the advantages of having separate total stock and total bond funds vs using balanced mutual funds.
 
 Jim retired on October 1st, 2007 and had 2 Million Dollars in his 401K retirement account and is using the 4% rule and is planning on withdrawing a starting figure of $6666 a month which will be adjusted for inflation. He has two accounts 60% of his money is in a total stock market fund and 40% in a total bond market fund. Just when he retires the stock market starts to crash so he pulls his $6666 a month withdrawal out of his bond fund so he does not sell his stocks when they are down. On March 1, 2009, just before the stock market hits bottom he has $955,736 in his total Bond Fund and $519,680 in his total stock market fund. ($1,475,416 combined) Starting in March 2009 he took his monthly withdrawals equally from both funds. On February 2020 he has $2,598,449 left.
 
@@ -208,31 +208,31 @@ Why the difference? Because Peter used a balanced mutual fund that was selling s
 Check my figures on this great website:
 
 [https://www.portfoliovisualizer.com/backtest-portfolio#analysisResults](https://www.portfoliovisualizer.com/backtest-portfolio#analysisResults)"
-h1r0protagon1st,1,Best gold mutual funds,"Anyone have a clue to some good gold mutual funds? I bought into opgsx , I'm a beginning investor, I've looked at their holdings, and returns, but does anybody else know if they are a good or bad fund? Also does anyone know any pure gold mutual funds? I'd just like recommendations on the best gold mutual funds or any that invest in pure gold/mining companies without other precious metals."
-IIIRGNIII,0,ETF & Mutual Fund Prices,"A noob question that hasn’t gotten answered from google. Why are ETF prices so high as compared to mutual funds? For example;
+2020-02-18,h1r0protagon1st,1,Best gold mutual funds,"Anyone have a clue to some good gold mutual funds? I bought into opgsx , I'm a beginning investor, I've looked at their holdings, and returns, but does anybody else know if they are a good or bad fund? Also does anyone know any pure gold mutual funds? I'd just like recommendations on the best gold mutual funds or any that invest in pure gold/mining companies without other precious metals."
+2020-03-03,IIIRGNIII,0,ETF & Mutual Fund Prices,"A noob question that hasn’t gotten answered from google. Why are ETF prices so high as compared to mutual funds? For example;
 1 ETF share of the S&P 500 (IVV) is 310$. 
 1 MF share of the S&P 500 (FXAIX) is 102$
 
 I believe they cover very similar compositions. Is it because of how ETF’s are traded compared to mutual funds? Or is there something I’m not understanding."
-CreativeWorkout,0,"Is there a way to invest in an industry, not an individual company, and not a multi-industry mutual fund?","Although future technologies can render currently-pioneering technologies obsolote, some new technologies/industries seem likely to grow well -- but it is less clear which companies will thrive and which will stagnate or fail.   Specialty mutual funds exist for real estate and for socially responsible investing.  How can I find if a mutual fund exists for the technology I'm interested in?"
-etienner,1,percentage of mutual funds outperforming by X%,"Is there a way to know the odds of a mutual fund outperforming by 1%, 2% or 3% (without taking fees into account)?  I know about 10% of them outperform net of fees, but I'd like to see the statistics for mutual funds before fees to know the odds of outperformance of a fund with a 1% fee vs a 3% fee"
-ureviews,4,Is Akrex Mutual Fund worth the high fee?,Thanks!
-puffferfish,5,Mutual funds or ETFs?,"I started out investing about 4 years ago. When I first started investing, I chose mutual funds, particularly through MFS investment management just because it seemed like the best option at the time. I stopped contributing to these funds around March of 2019 and have allocated my future contributions to other areas. I have money spread between MEIAX, MTCAX, MAGWX, and MMACX. These have given me pretty decent returns, but the fees are pretty hefty compared to ETFs, and ETFs seem to perform better overall. This is money I think would be better invested in vanguard ETFs long term. Does anyone have any reason it would be advantageous to stick with these mutual funds, or is there anything in particular about this management company that sets these funds apart? Also, for tax purposes, most of this money has been invested for over a year aside from the capital gains, and roughly $500 that was added to it by myself."
-zertox3000,4,"If you stop contributing to a mutual fund, do you still get hit with expense ratios even though there's no activity?","I have a mutual fund with a HIGH expense ratio.  I didn't do my research properly 7 years ago.  I stopped contributing to this fund, and I'm wondering if a static fund continues to get deducted assets to feed the expense ratio.  If a fund is static and not getting any additional contributions, doesn't the expense ratio just continue to eat away at my static fund... to the point I got nothing left?  I have only 16K in this fund and the expense ratio is .99.  I have not contributed anything to this fund for nearly 2 years.  It is called the Homestead Small Company Stock.  It had 5 stars on morning star 7 years ago, and since then it plummeted bad.  Thoughts?  Thanks."
-Prior_Perspective,1,Where can I find historical yearly alpha and beta data points for various mutual funds? Or how can I calculate it myself?,
-DrDilkington,0,Could someone explain why an actively managed ETF is not inherently superior to a mutual fund?,"Actively managed ETFs, at least from my basic understanding, seem far and large the superior option. Especially considering the stop loss aspect of an ETF combined with lower fees, am I missing something critical?"
-Alex1371,0,Mutual fund question?,Is there any brokers that allow you to purchase fractional mutual funds?
-jamesbondc,1,Tech heavy mutual funds Roth IRA,What are your favorite tech heavy mutual funds?
-truemeliorist,0,"If a mutual fund has purchase/redemption fees, do you still pay those behind the scenes with the corresponding ETF?","Basically the title.
+2020-01-15,CreativeWorkout,0,"Is there a way to invest in an industry, not an individual company, and not a multi-industry mutual fund?","Although future technologies can render currently-pioneering technologies obsolote, some new technologies/industries seem likely to grow well -- but it is less clear which companies will thrive and which will stagnate or fail.   Specialty mutual funds exist for real estate and for socially responsible investing.  How can I find if a mutual fund exists for the technology I'm interested in?"
+2020-02-06,etienner,1,percentage of mutual funds outperforming by X%,"Is there a way to know the odds of a mutual fund outperforming by 1%, 2% or 3% (without taking fees into account)?  I know about 10% of them outperform net of fees, but I'd like to see the statistics for mutual funds before fees to know the odds of outperformance of a fund with a 1% fee vs a 3% fee"
+2020-01-14,ureviews,3,Is Akrex Mutual Fund worth the high fee?,Thanks!
+2019-12-28,puffferfish,7,Mutual funds or ETFs?,"I started out investing about 4 years ago. When I first started investing, I chose mutual funds, particularly through MFS investment management just because it seemed like the best option at the time. I stopped contributing to these funds around March of 2019 and have allocated my future contributions to other areas. I have money spread between MEIAX, MTCAX, MAGWX, and MMACX. These have given me pretty decent returns, but the fees are pretty hefty compared to ETFs, and ETFs seem to perform better overall. This is money I think would be better invested in vanguard ETFs long term. Does anyone have any reason it would be advantageous to stick with these mutual funds, or is there anything in particular about this management company that sets these funds apart? Also, for tax purposes, most of this money has been invested for over a year aside from the capital gains, and roughly $500 that was added to it by myself."
+2020-01-02,zertox3000,3,"If you stop contributing to a mutual fund, do you still get hit with expense ratios even though there's no activity?","I have a mutual fund with a HIGH expense ratio.  I didn't do my research properly 7 years ago.  I stopped contributing to this fund, and I'm wondering if a static fund continues to get deducted assets to feed the expense ratio.  If a fund is static and not getting any additional contributions, doesn't the expense ratio just continue to eat away at my static fund... to the point I got nothing left?  I have only 16K in this fund and the expense ratio is .99.  I have not contributed anything to this fund for nearly 2 years.  It is called the Homestead Small Company Stock.  It had 5 stars on morning star 7 years ago, and since then it plummeted bad.  Thoughts?  Thanks."
+2020-02-09,Prior_Perspective,3,Where can I find historical yearly alpha and beta data points for various mutual funds? Or how can I calculate it myself?,
+2020-01-30,DrDilkington,0,Could someone explain why an actively managed ETF is not inherently superior to a mutual fund?,"Actively managed ETFs, at least from my basic understanding, seem far and large the superior option. Especially considering the stop loss aspect of an ETF combined with lower fees, am I missing something critical?"
+2020-01-29,Alex1371,0,Mutual fund question?,Is there any brokers that allow you to purchase fractional mutual funds?
+2020-02-07,jamesbondc,1,Tech heavy mutual funds Roth IRA,What are your favorite tech heavy mutual funds?
+2020-01-21,truemeliorist,0,"If a mutual fund has purchase/redemption fees, do you still pay those behind the scenes with the corresponding ETF?","Basically the title.
 
 In my IRA I am holding VNQI. I was looking to exchange it for VGRLX. However, I realized that VGRLX has a .25% fee on every purchase, and every redemption also has a .25% fee. The small print is that because these are paid to the fund, Vanguard doesn't consider them to be loads (seems shady but ok).
 
 Because of this I have instead been holding VNQI in my portfolio since then it's mostly just market prices and the spread. I am assuming the fees are priced in, or are they bypassed entirely? 
 
 Is this thinking correct, or am I missing something?"
-jamesbondc,0,List your top performers in Fidelity Mutual funds,"FZROX
+2019-12-29,jamesbondc,1,List your top performers in Fidelity Mutual funds,"FZROX
 FMAGX"
-zertox3000,0,Shifting from Mutual Funds to ETFs for ROTH IRA (Can you do fractional shares with ETFs),"Hello, I have lost a lot of opportunities from high expense ratio mutual funds for my ROTH IRA.  I want to find something more passive.
+2019-12-31,zertox3000,1,Shifting from Mutual Funds to ETFs for ROTH IRA (Can you do fractional shares with ETFs),"Hello, I have lost a lot of opportunities from high expense ratio mutual funds for my ROTH IRA.  I want to find something more passive.
 
 I'm thinking some of the following:
 
@@ -249,13 +249,13 @@ I'm thinking some of the following:
 &#x200B;
 
 In the PAST with my mutual funds, I would automatically put dollar amounts into my fund until I hit 6500 in a year.  Can I still do that with ETFs? I know for stocks you can only buy shares at the price.  My brokerage is with Fidelity.  Can I still automatically put in 6500 in my select ETFs without having to monkey around with trying to get my purchases at the ETF share price?"
-AxisPT,6,"If I sell mutual funds tomorrow Dec 31, that's 2019 (not 2020) capital gains, right?","Since mutual funds sell at market close, the sell date would still be Dec 31 and not Jan 1, correct? Or is there some processing time that will put the date later?
+2019-12-31,AxisPT,4,"If I sell mutual funds tomorrow Dec 31, that's 2019 (not 2020) capital gains, right?","Since mutual funds sell at market close, the sell date would still be Dec 31 and not Jan 1, correct? Or is there some processing time that will put the date later?
 
 I want to make sure these long term capital gains are recorded on my 2019 income.
 
 Thanks!"
-big_ole_johnson,2,Baron mutual fund,So my dads ROI in 2019 with a baron mutual fund was 44%!! The expense ratio is 2.03% but at that point does it matter how high it is? But what’s the catch for funds like this? I know the ROI won’t always be that high but if it can outperform an SandP 500 index fund then why not just dump all your money into it?
-SportsDoctor13,1,"Which to buy, same fund (Tech) ETF or Mutual Fund?","Hi everyone, long time first time. Simple question, but I am sure its not so simple an answer but here we go.
+2020-01-13,big_ole_johnson,2,Baron mutual fund,So my dads ROI in 2019 with a baron mutual fund was 44%!! The expense ratio is 2.03% but at that point does it matter how high it is? But what’s the catch for funds like this? I know the ROI won’t always be that high but if it can outperform an SandP 500 index fund then why not just dump all your money into it?
+2020-02-11,SportsDoctor13,1,"Which to buy, same fund (Tech) ETF or Mutual Fund?","Hi everyone, long time first time. Simple question, but I am sure its not so simple an answer but here we go.
 
 VITAX - Vanguard Information Tech Index (MUTUAL FUND) vs VGT - Vanguard Information Tech (ETF) ?
 
@@ -266,14 +266,14 @@ Assuming: 1)I meet the steep minimum for mutual fund (100k), 2) this would be a 
 VITAX - [https://investor.vanguard.com/mutual-funds/profile/VITAX](https://investor.vanguard.com/mutual-funds/profile/VITAX)
 
 VGT -  [https://investor.vanguard.com/etf/profile/vgt](https://investor.vanguard.com/etf/profile/vgt)"
-jamesbondc,4,Which out of these mutual funds [FMAGX / FXAIX is better for long term gains in ROTH IRA,"Which out of these mutual funds [FMAGX / FXAIX is better for long term gains in ROTH IRA. 
+2020-01-01,jamesbondc,1,Which out of these mutual funds [FMAGX / FXAIX is better for long term gains in ROTH IRA,"Which out of these mutual funds [FMAGX / FXAIX is better for long term gains in ROTH IRA. 
 
 One fund is low in price but expense is more and other is above $100 per share but low in expense.
 
 In long run in ROTH IRA which fund would be better option?"
-jamesbondc,0,"Portfolio in ROTH IRA having heavy tech mutual funds, Opinions","My heaviest position in ROTH IRA is tech heavyset mutual funds. I am tsking profit and buying FZROX, is it good or neutral strategy in your opinion? Let's be honest AI and Automation will only increase."
-BrotherBringTheSun,0,"How do you think about the moral implications of investing in stocks/mutual funds that may have negative effects on causes you care about ""environmental, human rights, military-industrial etc.""",
-zertox3000,3,Mutual Funds - Go for a lower expense ratio or better historical performer ?,"I want to compare  Fidelity Blue Chip Growth (FBGRX) to something like Fidelity 500 Index (FXAIX)
+2020-01-14,jamesbondc,0,"Portfolio in ROTH IRA having heavy tech mutual funds, Opinions","My heaviest position in ROTH IRA is tech heavyset mutual funds. I am tsking profit and buying FZROX, is it good or neutral strategy in your opinion? Let's be honest AI and Automation will only increase."
+2019-12-29,BrotherBringTheSun,2,"How do you think about the moral implications of investing in stocks/mutual funds that may have negative effects on causes you care about ""environmental, human rights, military-industrial etc.""",
+2019-12-30,zertox3000,1,Mutual Funds - Go for a lower expense ratio or better historical performer ?,"I want to compare  Fidelity Blue Chip Growth (FBGRX) to something like Fidelity 500 Index (FXAIX)
 
 FBGRX has an expense ratio of 0.80.  FXAIX has an expense ratio of 0.015.
 
@@ -282,39 +282,39 @@ FBGRX  growth of 10K over 10 years is $63,534.  FXAIX growth of 10K over 10 year
 I predominantly see folks say the low expense ratio is always the better option - i.e. passive managed funds.  But what about the gains of something like FBGRX when compared to FXAIX.  
 
 Please educate me.  Thank you."
-Subwayabuseproblem,16,Is there a reason to choose a mutual fund over an ETF?,"I am planning a 30-year investment contributing roughly $5,000 a year with an initial investment of about $10,000
+2019-11-15,Subwayabuseproblem,16,Is there a reason to choose a mutual fund over an ETF?,"I am planning a 30-year investment contributing roughly $5,000 a year with an initial investment of about $10,000
 
 Would I be better off with an ETF vs a mutual fund? The MER saving on the ETF are insane it seems. 
 
 The idea is to keep the investment safe and let it grow, not taking much risk.
 
 Calculator screenshot: https://imgur.com/a/3qWLc1k"
-firecat245,0,"Easiest way to create/manage your own personal ""mutual fund"" ?","Now that commissions are widely $0, I would like to essentially create my own tiny, personal mutual fund. 
+2020-01-07,firecat245,0,"Easiest way to create/manage your own personal ""mutual fund"" ?","Now that commissions are widely $0, I would like to essentially create my own tiny, personal mutual fund. 
 
 I use Ameritrade, so preferably would like to know if there's something I can do within Ameritrade, but am open to considering other brokerages if they offer what I need.
 
 For example, I want to take about 25k and purchase $500 worth of 50 stocks that I have identified. If I did that in my current Ameritrade account, it would be hard to 'separate' these from other stocks that I own. So tracking the performance of this bundle of 50 as a package would not be super easy. The only thing I can think is I'd have to open a separate brokerage account thru Ameritrade, deposit the 25k to it, then buy the stocks and manage the accounts separately.
 
 Anyone know any better ways to do this? Or is 'new separate account' basically the only option?"
-subaeisgood,0,Can we get the mutual funds portfolio composition?,"I would like to track several mutual funds performance and get some insight of the markets. 
+2020-02-09,subaeisgood,0,Can we get the mutual funds portfolio composition?,"I would like to track several mutual funds performance and get some insight of the markets. 
 
 Can we get those information just like the composition of ETF?"
-jamesbondc,0,Energy mutual funds in Roth IRA,"Hi Seniors,
+2020-01-23,jamesbondc,0,Energy mutual funds in Roth IRA,"Hi Seniors,
 
 I am thinking of adding **Fidelity® Telecom and Utilities Fund** to my Roth IRA and Individual acct. What percentage of energy you guys recommend?
 
 Would you guys tell Pros or Cons ? Since it's heavy on energy sector may not give too much profit but might be safe since we all need electricity."
-zertox3000,0,Mutual Funds vs ETFs for ROTH IRA,"I've used very strong mutual funds from fidelity, TRP, and Primecap Odyssey that were yielding high percentage with 5 star ratings.  They have higher expense ratios ranging from .60 to .70.  I know ETFs can range much lower from .05 to .40.  Wanted to know if I should completely stop using my mutual funds for my roth IRA and turn towards ETFs moving on forward.  From a numbers stand point, it does not look like the ETFs I scoped out had better past performance compared to my mutual funds, but maybe the expense ratio makes up for that.  I'm now 29.  Not sure... Thoughts?"
-jamesbondc,0,Vtsax is it better than Fzrox mutual funds ?,"Looking at Vtsax it has about 1k more companies then FZROX but it seems to invest in Vtsax you need $2500 from get go. Some people don't have $2500 sitting around to dump in market. FZROX at least lets you invest whatever amount. So, besides larger blend is there anything else that makes Vtsax special?"
-MCCRoa,0,Mutual fund tax?,I have been saving for a new home for 10 years now. The money is in a non-retirement mutual fund. My question is: will I have to pay taxes on this when I pull it out? So far it is over $240000.00. Thanks!
-biiiotch,2,"If I open a mutual fund with Vanguard, will they be able to tell I spend most of my time abroad?","I'd like to invest with Vanguard but I spend most of the year abroad. I know that's been a problem for a lot of expats. However,  I have a U.S. address that I use for all my banking, a U.S. phone number (a Skype number), and a VPN. I also plan to open the account while I'm in the U.S. Will they really be able to tell I'm living abroad?"
-AdmiralPory,7,Index funds vs dividend focused mutual fund?,"Which is better and why? I keep both in my portfolio, with a larger amount in a low cost index fund (0.01% expense ratio). I own 3 dividend focused funds, VDIGX, VYMI, &amp; VYM. I also have a target retirement date fund. My total expense ratio across these 5 is 0.80%. Would there be a reason to not invest in these  dividend funds and solely focus on an SP500 index fund/target retirement date fund? Thank you in advance.
+2019-12-28,zertox3000,0,Mutual Funds vs ETFs for ROTH IRA,"I've used very strong mutual funds from fidelity, TRP, and Primecap Odyssey that were yielding high percentage with 5 star ratings.  They have higher expense ratios ranging from .60 to .70.  I know ETFs can range much lower from .05 to .40.  Wanted to know if I should completely stop using my mutual funds for my roth IRA and turn towards ETFs moving on forward.  From a numbers stand point, it does not look like the ETFs I scoped out had better past performance compared to my mutual funds, but maybe the expense ratio makes up for that.  I'm now 29.  Not sure... Thoughts?"
+2020-01-10,jamesbondc,0,Vtsax is it better than Fzrox mutual funds ?,"Looking at Vtsax it has about 1k more companies then FZROX but it seems to invest in Vtsax you need $2500 from get go. Some people don't have $2500 sitting around to dump in market. FZROX at least lets you invest whatever amount. So, besides larger blend is there anything else that makes Vtsax special?"
+2020-01-18,MCCRoa,0,Mutual fund tax?,I have been saving for a new home for 10 years now. The money is in a non-retirement mutual fund. My question is: will I have to pay taxes on this when I pull it out? So far it is over $240000.00. Thanks!
+2019-12-16,biiiotch,2,"If I open a mutual fund with Vanguard, will they be able to tell I spend most of my time abroad?","I'd like to invest with Vanguard but I spend most of the year abroad. I know that's been a problem for a lot of expats. However,  I have a U.S. address that I use for all my banking, a U.S. phone number (a Skype number), and a VPN. I also plan to open the account while I'm in the U.S. Will they really be able to tell I'm living abroad?"
+2019-11-24,AdmiralPory,8,Index funds vs dividend focused mutual fund?,"Which is better and why? I keep both in my portfolio, with a larger amount in a low cost index fund (0.01% expense ratio). I own 3 dividend focused funds, VDIGX, VYMI, &amp; VYM. I also have a target retirement date fund. My total expense ratio across these 5 is 0.80%. Would there be a reason to not invest in these  dividend funds and solely focus on an SP500 index fund/target retirement date fund? Thank you in advance.
 
 Edit: The idea is to have a sizable enough position in dividend funds to live off of dividends while not touching the principal, more specifically the principal in the SP500/Target date retirement fund, and to let the later compound more so.
 
 Edit 2: 0.15% expense ratio, not 0.80%"
-Mrchainbanger,0,Seeking Mutual fund advice,"I’m an aggressive investor and hold 20% of my portfolio in a new small cap growth fund by Fidelity(Fecgx). It has an expense ratio of .05% and holds 17.2 million in assets with 1,156 holdings. Would it be better to switch over to an older small cap fund(Fssnx) with an expense ratio of .02%, has over 10 billion in assets with 2,012 holdings?"
-zertox3000,1,Is the expense ratio already factored in the Average Annual Total Returns for mutual funds?,"I would like to know if the expense ratio is already factored into the statistics of a given funds' average annual total returns.  TRBCX has a higher expense ratio at .70, but the returns are higher than what I would get out of most other funds.  If the expense ratio is already factored in the stats below, I don't think it's a major loss.  Educate me if I'm mistaking.  Thank you.
+2019-12-07,Mrchainbanger,0,Seeking Mutual fund advice,"I’m an aggressive investor and hold 20% of my portfolio in a new small cap growth fund by Fidelity(Fecgx). It has an expense ratio of .05% and holds 17.2 million in assets with 1,156 holdings. Would it be better to switch over to an older small cap fund(Fssnx) with an expense ratio of .02%, has over 10 billion in assets with 2,012 holdings?"
+2020-01-14,zertox3000,1,Is the expense ratio already factored in the Average Annual Total Returns for mutual funds?,"I would like to know if the expense ratio is already factored into the statistics of a given funds' average annual total returns.  TRBCX has a higher expense ratio at .70, but the returns are higher than what I would get out of most other funds.  If the expense ratio is already factored in the stats below, I don't think it's a major loss.  Educate me if I'm mistaking.  Thank you.
 
 When looking at TRBCX, it says the fund has the following Average Annual Total Returns
 
@@ -331,15 +331,15 @@ Growth of 10K in 10 years is hypothetically 44K.
 The expense ratio is .70
 
  [https://www.troweprice.com/personal-investing/tools/fund-research/TRBCX#content-performance](https://www.troweprice.com/personal-investing/tools/fund-research/TRBCX#content-performance)"
-its_probably_a_trap,2,Launching the 1st CBD mutual fund - what would you ask?," The Investment firm where I work is launching the only CBD mutual fund to currently exist and I am in charge of the marketing aspect and roll out of the new product.
+2019-12-03,its_probably_a_trap,3,Launching the 1st CBD mutual fund - what would you ask?," The Investment firm where I work is launching the only CBD mutual fund to currently exist and I am in charge of the marketing aspect and roll out of the new product.
 
 I want to crowd-source some questions people both in and out of the finance world would ask. I realize there will also be an education aspect to this, so feel free to chime in about that too.  
 So far common concerns to address will be:
 
 What's the minimum investment? What's the fee? How diversified/ how many companies are in the fund? And, ""Why would I invest in that when ETFs have .25% fees? (which has a lot of answers but largely depends on your investing goals/philosophy).  
 Your perspective is appreciated :)"
-scudfucc,0,CFAGX mid cap mutual fund down 5.35%,Trying to understand why a mutual fund was down so much when the market was doing so well?
-darkowa,301,My country is taking 30% of any profit or makes me invest in front-loaded actively managed mutual funds. What do I invest in now?,"See bottom for a tldr.
+2019-12-06,scudfucc,0,CFAGX mid cap mutual fund down 5.35%,Trying to understand why a mutual fund was down so much when the market was doing so well?
+2019-07-02,darkowa,301,My country is taking 30% of any profit or makes me invest in front-loaded actively managed mutual funds. What do I invest in now?,"See bottom for a tldr.
 
 &#x200B;
 
@@ -386,13 +386,13 @@ Do I invest solely in real estate? With investments in real estate the profits a
 Is there another option?
 
 **TLDR: Passive investing and individual stocks are basically not allowed in Belgium for small business owners. Do I take the pain of actively managed funds or are there alternatives?**"
-ihatesancho,0,"When I buy shares of mutual funds, when does the fund buy the underlying stocks?",
-black_mamba_returns,0,Best Schwab ETF /mutual fund to invest in right now?,With markets and S&P at an all time high what are some good investments right now on Schwab which can earn decent returns in the 3-4 yr timeframe?
-zertox3000,0,Expense Ratios on Mutual Funds,"When you see a 0.70 or 0.65 expense ratio, how much is that really?  To me that seems to be okay.  It isn't that high.  I know the arguement between ETFs and Mutual Funds, but my Mutual Funds seem to be doing actually very well.  I see no need to liquidate it and move them into ETFs.  Their expense ratios are all under 0.70.  Basically, I want to know ""when"" the fund managers ""take"" my money by means of the expense ratio.  When does that take place?  Is that at the end of the year?  I never see any statement that says that my money is being withdrawn to give to the fund manager.  Thanks."
-dipsis,1,Looking for a multifactor ETF/Mutual Fund that takes a long AND short position on equities.,"Looking for both U.S. and ex-U.S., any suggestions?
+2020-01-14,ihatesancho,0,"When I buy shares of mutual funds, when does the fund buy the underlying stocks?",
+2019-12-20,black_mamba_returns,0,Best Schwab ETF /mutual fund to invest in right now?,With markets and S&P at an all time high what are some good investments right now on Schwab which can earn decent returns in the 3-4 yr timeframe?
+2019-11-29,zertox3000,0,Expense Ratios on Mutual Funds,"When you see a 0.70 or 0.65 expense ratio, how much is that really?  To me that seems to be okay.  It isn't that high.  I know the arguement between ETFs and Mutual Funds, but my Mutual Funds seem to be doing actually very well.  I see no need to liquidate it and move them into ETFs.  Their expense ratios are all under 0.70.  Basically, I want to know ""when"" the fund managers ""take"" my money by means of the expense ratio.  When does that take place?  Is that at the end of the year?  I never see any statement that says that my money is being withdrawn to give to the fund manager.  Thanks."
+2019-12-16,dipsis,1,Looking for a multifactor ETF/Mutual Fund that takes a long AND short position on equities.,"Looking for both U.S. and ex-U.S., any suggestions?
 
 I've read the prospectus for several popular smart-beta/multifactor ETFs but none take a short position and many have some patented portion where they don't disclose exactly how the funds are constructed, which is annoying. I'm looking for something more in line with the actual research behind factors."
-sangbro,0,Buying bond mutual fund/ETF as fixed income source?,"I’m considering buying bond mutual fund/ETF as a part of fixed income source. My question is - how much I can expect as annually?
+2019-12-18,sangbro,0,Buying bond mutual fund/ETF as fixed income source?,"I’m considering buying bond mutual fund/ETF as a part of fixed income source. My question is - how much I can expect as annually?
 Let’s simplify the situation.
 
 Case A) Mutual Fund
@@ -408,17 +408,17 @@ Q2. In this case, am I going to receive $4? Or $2?
 
 I’d like to compare with CD.
 Thank you."
-rtkn345464345234m,0,Are mutual funds and hedge funds able to take advantage of zero commissions?,
-SharkLaser2019,0,Is there such a thing as an mutual fund for e-sports?,"All I find are ETF's but no mutual funds.  Hopefully someone can name a few or explain why there isn't none.  
+2019-11-28,rtkn345464345234m,0,Are mutual funds and hedge funds able to take advantage of zero commissions?,
+2019-12-17,SharkLaser2019,0,Is there such a thing as an mutual fund for e-sports?,"All I find are ETF's but no mutual funds.  Hopefully someone can name a few or explain why there isn't none.  
 
 Thanks in advance!"
-zlaer,0,Whats the Best Investment Strategy or Mutual Fund for Me?,"I got $70,000 and am in my upper 40s. I'm not currently working. Not married but I get paid $300/month in a side hustle. I dont want to risk my money to highly risky investments. But I want to be able to see great returns in about 5 years. Afterwards I plan to take that money out and reinvest it. Whats the best investment or mutual fund for my money? Or whats the best investment strategy for it considering the above?"
-setrusko,0,Question About Vanguard Mutual Fund Transactions,"I was just looking at the Transaction History for my Brokerage Account and I noticed that when I multiply the number of shares by the price per share, the totals in the Transaction History are all off by a cent or two. 
+2019-11-19,zlaer,0,Whats the Best Investment Strategy or Mutual Fund for Me?,"I got $70,000 and am in my upper 40s. I'm not currently working. Not married but I get paid $300/month in a side hustle. I dont want to risk my money to highly risky investments. But I want to be able to see great returns in about 5 years. Afterwards I plan to take that money out and reinvest it. Whats the best investment or mutual fund for my money? Or whats the best investment strategy for it considering the above?"
+2019-12-04,setrusko,0,Question About Vanguard Mutual Fund Transactions,"I was just looking at the Transaction History for my Brokerage Account and I noticed that when I multiply the number of shares by the price per share, the totals in the Transaction History are all off by a cent or two. 
 
 For example, $33.83 * 29.5600 = $1000.01, but Vanguard is showing $1000.00.  Almost every purchase is off by a cent or two.  Any ideas?"
-zlaer,2,I'm Confused About Open-ended Mutual Funds,"Got a question about open-ended mutual funds. Since they contain a limitless number of shares, why arent the shares and the fund themselves of lower value? Naturally the more shares are generated the less value it must have. Very confused and hope someone can help with that."
-pulsed19,13,"If I could only get one ETF or mutual fund, what would you suggest?",Just wanted to start with a long term investment. I presume tech ETF or one that follows the SP500. Sorry if this isn’t the right place for this.
-tripshed,38,Why does Vanguard (subtly) encourages ETFs over Mutual Funds?,"* You can convert vanguard mutual funds to equivalent ETFs without triggering a tax event but not the other way around
+2019-11-21,zlaer,3,I'm Confused About Open-ended Mutual Funds,"Got a question about open-ended mutual funds. Since they contain a limitless number of shares, why arent the shares and the fund themselves of lower value? Naturally the more shares are generated the less value it must have. Very confused and hope someone can help with that."
+2019-10-11,pulsed19,13,"If I could only get one ETF or mutual fund, what would you suggest?",Just wanted to start with a long term investment. I presume tech ETF or one that follows the SP500. Sorry if this isn’t the right place for this.
+2019-09-12,tripshed,40,Why does Vanguard (subtly) encourages ETFs over Mutual Funds?,"* You can convert vanguard mutual funds to equivalent ETFs without triggering a tax event but not the other way around
 
 * The expense ratios are slightly higher for admiral funds eg., 
 
@@ -430,8 +430,8 @@ VOO: 0.03%
 
 * There are even articles on their website which draw comparisons and encourage ETFs (although very subtle).
 Eg:  https://vanguardblog.com/2018/10/31/5-common-misconceptions-i-had-about-etfs/"
-freyzha,53,"What could be the reason why most of Vanguard's sector-specific mutual funds have such absurdly high minimums? $100,000 to get into utilities/HC seems insane when just about every other Admiral Shares is $3,000","What does Vanguard gain from setting such a massive minimum investment amount on these funds? I can't imagine that lowering it to even something like $20,000 would make the fund's cap that much more volatile where it wouldn't be financially viable to run....am I just missing something obvious here?"
-HunnyPig,11,National Bureau of Economic Research: Misclassification of Bond Mutual Funds,"Anyone have access to the full report? Below is the summary --> https://www.nber.org/papers/w26423
+2019-08-29,freyzha,54,"What could be the reason why most of Vanguard's sector-specific mutual funds have such absurdly high minimums? $100,000 to get into utilities/HC seems insane when just about every other Admiral Shares is $3,000","What does Vanguard gain from setting such a massive minimum investment amount on these funds? I can't imagine that lowering it to even something like $20,000 would make the fund's cap that much more volatile where it wouldn't be financially viable to run....am I just missing something obvious here?"
+2019-11-07,HunnyPig,11,National Bureau of Economic Research: Misclassification of Bond Mutual Funds,"Anyone have access to the full report? Below is the summary --> https://www.nber.org/papers/w26423
 
 Don't Take Their Word For It: The Misclassification of Bond Mutual Funds
 
@@ -440,17 +440,17 @@ We provide evidence that mutual fund managers misclassify their holdings, and th
 Many funds report more investment grade assets than are actually held in their portfolios, making these funds appear significantly less risky. This results in pervasive misclassifications across the universe of US fixed income mutual funds by Morningstar, who relies on these reported holdings. The problem is widespread- resulting in about 30% of funds being misclassified with safer profiles, when compared against their actual, publicly reported holdings. 
 
 “Misclassified funds” – i.e., those that hold risky bonds, but claim to hold safer bonds– outperform the actual low-risk funds in their peer groups. “Misclassified funds” therefore receive higher Morningstar Ratings (significantly more Morningstar Stars) and higher investor flows due to this perceived outperformance. However, when we correctly classify them based on their actual risk, these funds are mediocre performers. Misreporting is stronger following several quarters of large negative returns, and it is strong at the fund family level. We report those families that have the highest percentage of misreported funds in the sample."
-smango426,2,Question on taxes and liquidity between mutual funds and ETFs,"I have been invested into a few Vanguard index funds via their mutual funds for about a year now. I am considering whether to convert these to ETFs - apparently you can do this ""in kind"" without affecting your cost basis, but you can't go backwards. Regardless, this raises a few questions about mutual funds and ETFs that I haven't understood.
+2019-11-20,smango426,2,Question on taxes and liquidity between mutual funds and ETFs,"I have been invested into a few Vanguard index funds via their mutual funds for about a year now. I am considering whether to convert these to ETFs - apparently you can do this ""in kind"" without affecting your cost basis, but you can't go backwards. Regardless, this raises a few questions about mutual funds and ETFs that I haven't understood.
 
 1. How are mutual fund capital gains taxed? My understanding is that unlike stocks/ETFs where you have individual shares, each of which you have owned for X amount of time and each of which has appreciated independently, with a mutual fund you just have put X amount of money in at different times and as the fund grows in value your portion of the fund is proportionally larger. There are no ""shares"", so if I have contributed $10K to VTSAX a year ago, and $10K to VTSAX yesterday, and today I want to sell $10K from VTSAX, how is it determined whether I am selling the original $10K contribution, the latest $10K contribution, some amount of the gains from the original contribution, or some combination thereof?
 
 2. I have a related question about ""liquidity"" as it pertains to ETFs. In my original example, if I have a bunch of money in VTSAX and I am retired, I can withdraw some money from the fund every year to use as income. But if I have that money in VTI instead, I have to sell a whole number of shares for income. So if I'm not contributing any more, then my portfolio is presumably growing via the price of my VTI shares increasing, but that means that I am being forced to withdraw amounts which are increasingly different from the amount I truly want to withdraw (example: if an ETF is worth $10K in price now, and I want to withdraw $31K this year, I actually need to withdraw $40K). Over time your portfolio is going up but your ability to liquidate it efficiently is going down. In the (exaggerated) limit case, you're left with only a few super expensive shares. Is this something to worry about? Does this accurately describe a disadvantage of ETFs compared to mutual funds?
 
 Thanks!"
-xeon1,1,Muni ETF vs Mutual Fund vs Closed End Fund,"Would appreciate everyone's thought on the subject (for the funds lets assume a big enough investment for no sales load.. just the management fees taken into account)
+2019-11-20,xeon1,1,Muni ETF vs Mutual Fund vs Closed End Fund,"Would appreciate everyone's thought on the subject (for the funds lets assume a big enough investment for no sales load.. just the management fees taken into account)
 
 NOTE: discussion is with regards to muni assets for all these options (ETF, open/closed fund)"
-chargum,0,Mutual Funds that never had a losing annual loss (for 20-30-40 years)!,"I have been looking for a place to put my money that is not invested in the stock market.  Of course, the safest place is a money market fund or Certificate of Deposit but they are only giving me 1.5 to 2.0%.
+2019-10-10,chargum,0,Mutual Funds that never had a losing annual loss (for 20-30-40 years)!,"I have been looking for a place to put my money that is not invested in the stock market.  Of course, the safest place is a money market fund or Certificate of Deposit but they are only giving me 1.5 to 2.0%.
 
 How about a short term bond mutual fund?  Putting my money in these investments is not risk-free but less risky than stocks.
 
@@ -473,35 +473,35 @@ SAUPX
 VASIX
 
 Is it too good to be true?"
-chargum,19,Will Bond Mutual Funds pay a dividend when negative interest rates come to America?,"The experts are saying it is only a matter of time before negative interest rates come to America (From Europe).  Now I know that dividends paid to bond owners and interest paid to people who have money in the bank are different things but in time negative interest rates for bank depositors would cause people and businesses to put their money in bond funds and  I would expect bond dividends to reach near-zero unless you are talking about risky junk bond funds.  The European version of treasury bonds is now negative. And the European Bond Market is crazy.
+2019-08-26,chargum,21,Will Bond Mutual Funds pay a dividend when negative interest rates come to America?,"The experts are saying it is only a matter of time before negative interest rates come to America (From Europe).  Now I know that dividends paid to bond owners and interest paid to people who have money in the bank are different things but in time negative interest rates for bank depositors would cause people and businesses to put their money in bond funds and  I would expect bond dividends to reach near-zero unless you are talking about risky junk bond funds.  The European version of treasury bonds is now negative. And the European Bond Market is crazy.
 
 So in time won't negative interest rates pretty much destroy the bond market which I understand is bigger than the stock market in volume.  With the bond market soon to be in crisis, where would retired folks put their money to protect themselves against stock market crashes?"
-jaysomething2,0,"Are FZROX, FZILX, and FXNAX an ETF? Whats the difference between an ETF and a Mutual fund?","I want to say I made a good investment so I put 60% in domestic stocks, 30% in foreign stocks, and 10% in bonds. I am not sure tho if FZROX, FZILX, and FXNAX were a mutual fund or an ETF tho. Sorry for the question."
-fazeka,0,Pros/cons buying fund a company's mutual fund thru another?,"I was reading up on the different type of categories of funds and saw one through Fidelity that may fit me good.
+2019-11-15,jaysomething2,0,"Are FZROX, FZILX, and FXNAX an ETF? Whats the difference between an ETF and a Mutual fund?","I want to say I made a good investment so I put 60% in domestic stocks, 30% in foreign stocks, and 10% in bonds. I am not sure tho if FZROX, FZILX, and FXNAX were a mutual fund or an ETF tho. Sorry for the question."
+2019-12-04,fazeka,0,Pros/cons buying fund a company's mutual fund thru another?,"I was reading up on the different type of categories of funds and saw one through Fidelity that may fit me good.
 
 There's a similar fund with Vanguard (who I currently use solely) but it has a high initial investment.
 
 I got a quote for the Fidelity fund through Vanguard. But I'm wondering is there any advantage (excepting all my investments are with one company) with buying a Fidelity fund through Vanguard? Wouldn't it be more economical/profitable to buy direct from Fidelity?
 
 I don't really want to have funds all over the place from different companies, but am wondering how others do it? Do many people have just one company with all their investments or do people spread amongst multiple companies?"
-BinaryAlgorithm,0,Can you get 2x leverage on mutual funds after 30 days?,"So if I buy XYZ fund with cash on hand and wait 30 days, can I use it as collateral to buy a similar amount of XYZ again? The fund in question has no appreciable drawdown over time and regular cash deposits are made into the account (also fund pays monthly).
+2019-12-14,BinaryAlgorithm,0,Can you get 2x leverage on mutual funds after 30 days?,"So if I buy XYZ fund with cash on hand and wait 30 days, can I use it as collateral to buy a similar amount of XYZ again? The fund in question has no appreciable drawdown over time and regular cash deposits are made into the account (also fund pays monthly).
 
 **Edit:**  The idea is to use my existing cash to buy the fund, wait 30 days, then that allows ETF margin so then I short BIL for cash, now I have more cash to buy the fund, repeat a couple times to get to desired leverage of 1.7-1.8 on the fund; BIL cost of carry is about 1.6% + 0.7% short fee rate, lower than the 3.0% at IB right now (unless doing 1 mil+). 
 
 IB specifically says:
 
 By regulation, brokers may not allow clients to purchase mutual funds on margin. However, once purchased and held as fully-paid for a period of 30 days, the mutual fund shares have loan value which may be used to extend margin credit against subsequent stock purchases."
-chargum,0,"Going to Bond Mutual Funds because with the expected 4% returns going forward for the stock market, maybe stocks are not worth the risk for us older folks","Even in an era with record low-interest rates since 2009, my bond funds have done pretty well with very little volatility.  (CAGR of 5-6%) I am moving most of my money to bond funds of varied duration and bailing from the stock market.
+2019-10-22,chargum,0,"Going to Bond Mutual Funds because with the expected 4% returns going forward for the stock market, maybe stocks are not worth the risk for us older folks","Even in an era with record low-interest rates since 2009, my bond funds have done pretty well with very little volatility.  (CAGR of 5-6%) I am moving most of my money to bond funds of varied duration and bailing from the stock market.
 
 The EXPERTS are telling us to expect a real return of 1-2% from a total stock market fund for the next ten to twenty years (nominal 4%) with an incredible roller coaster of ups and downs.  As a recently retired person who is scared of a long period of negative returns in my first 10 years of retirement, I wonder if it would be best to just stick with bond funds.
 
 I would expect less wild swings with bonds, and less sequence of return risk.  I expect to continue to get my 3-4% real returns from my bond mutual funds.  With one-third fo the standard deviation of stocks.  I am talking about bond funds, not purchasing low yield treasury bonds.  It is a win-win!"
-jcarmona24,3,How many diversified mutual funds should you have before the expense ratios eat away at your gains?,"In my 401k I have a very great diversified mix of funds probably about 7-8.  My account is up 26% this year as I am only 26 years old so I am taking a lot of risk.  But at what point should I cut down my amount of funds?  I have software, semis, healthcare, utilities, financials, etc.
+2019-10-24,jcarmona24,2,How many diversified mutual funds should you have before the expense ratios eat away at your gains?,"In my 401k I have a very great diversified mix of funds probably about 7-8.  My account is up 26% this year as I am only 26 years old so I am taking a lot of risk.  But at what point should I cut down my amount of funds?  I have software, semis, healthcare, utilities, financials, etc.
 
 Any advice would be appreciated
 
 **edit**: calculated my weighted avg expense ratio which is .678%.  Thanks guys"
-FidelityFund,3,Need Advice: Is this a good portfolio of fidelity mutual funds?,"I'm 18 and I'm just messing around trying to learn fidelity and how to get a decent yearly return on the market. I have around 2k invested so far and I'm going to put in about $100-$200 per month for now. I'm not going to withdraw any money until I retire, but I will change the portfolio up over time. Is this a pretty good portfolio for high risk high returns?
+2019-11-03,FidelityFund,2,Need Advice: Is this a good portfolio of fidelity mutual funds?,"I'm 18 and I'm just messing around trying to learn fidelity and how to get a decent yearly return on the market. I have around 2k invested so far and I'm going to put in about $100-$200 per month for now. I'm not going to withdraw any money until I retire, but I will change the portfolio up over time. Is this a pretty good portfolio for high risk high returns?
 
 # Fidelity® Select Software and IT Services Portfolio (FSCSX) - 20%
 
@@ -516,14 +516,14 @@ or do you guys think this is better, how I currently have my cash,
 
 
  **Fidelity ZERO Large Cap Index Fund (FNILX) - 100%**"
-chargum,1,Mutual Fund advertisement talks mostly about past return success!,"Certain Mutual Funds seem to do better than peer funds and beat the market- year after year after year.  They are advertised as successful investments because they have a history of success.
+2019-10-07,chargum,1,Mutual Fund advertisement talks mostly about past return success!,"Certain Mutual Funds seem to do better than peer funds and beat the market- year after year after year.  They are advertised as successful investments because they have a history of success.
 
 At the same time, many posters on financial message boards say past return is not an indicator of future results.  So I have ignored the successful mutual funds that have done well in the past.  But many successful funds then continue to do well and because I didn't purchase these ""successful in the past funds""  I lost money.
 
 Maybe in the future, I will accept that ""many but not all"" mutual funds that have a track record of historical success will continue to do better than their peers in the future and I should invest in them.  An example of a mutual fund that has done well historically and will likely beat its peers in the future is FCNTX (Fidelity Contra)."
-apr1c1ty,0,$0 commissions and mutual funds,"My main invest strategy so far has always been to hold low fee index funds, for instance swtsx. Now that there are $0 commissions at many brokers could I get better bang for the buck by just buying like the top x holdings in the fund and not have to pay the fund fees?"
-chargum,0,Your thoughts about balanced mutual fund for older folks,60% Total Stock Market ETF and 40% Total Bond Market Fund...or a Balanced Mutual Fund that is 60-40.
-AlwaysGettingLearned,0,A question about directed mutual fund distributions at Fidelity & T. Rowe Price...,"At both brokerages I direct any distributions I receive into the mutual fund I consider the most undervalued at the time (so most distributions are not reinvested into the same fund that paid them out).
+2019-10-23,apr1c1ty,0,$0 commissions and mutual funds,"My main invest strategy so far has always been to hold low fee index funds, for instance swtsx. Now that there are $0 commissions at many brokers could I get better bang for the buck by just buying like the top x holdings in the fund and not have to pay the fund fees?"
+2019-10-20,chargum,0,Your thoughts about balanced mutual fund for older folks,60% Total Stock Market ETF and 40% Total Bond Market Fund...or a Balanced Mutual Fund that is 60-40.
+2019-12-14,AlwaysGettingLearned,0,A question about directed mutual fund distributions at Fidelity & T. Rowe Price...,"At both brokerages I direct any distributions I receive into the mutual fund I consider the most undervalued at the time (so most distributions are not reinvested into the same fund that paid them out).
 
 When a bond fund pays a monthly distribution, the distribution is reinvested the same day that I receive it at both brokerages.
 
@@ -532,32 +532,32 @@ When an equity fund pays a dividend, Fidelity reinvests the distribution the sam
 Any ideas as to why T. Rowe Price does this?
 
 One final note... I am only invested in Fidelity funds at Fidelity & T. Rowe Price funds at T. Rowe Price."
-swolebird,1,Mutual fund indicator equation like Andrew Sathers Value Trap Indicator?,"Is there any equation that collates a number of mutual fund factors into a single indicator of how its likely to perform? I'm thinking factors like alpha, beta, r-squared, standard deviation, Sharpe ratio, dividends/yield, maybe capture ratios or Treynors ratio.
+2019-11-16,swolebird,1,Mutual fund indicator equation like Andrew Sathers Value Trap Indicator?,"Is there any equation that collates a number of mutual fund factors into a single indicator of how its likely to perform? I'm thinking factors like alpha, beta, r-squared, standard deviation, Sharpe ratio, dividends/yield, maybe capture ratios or Treynors ratio.
 
 I recently read Andrew Sathers Value Trap Indicator that uses P/E, P/B, P/S, P/C, growth, cash on hand, and dividends/yield to calculate whether a stock is a strong buy or sell, so wondering if there's something similar for mutual funds instead."
-rover771,0,The Lowdown on Mutual Fund Capital Gains 2019 Edition,[https://www.morningstar.com/articles/956480/the-lowdown-on-mutual-fund-capital-gains-2019-edition](https://www.morningstar.com/articles/956480/the-lowdown-on-mutual-fund-capital-gains-2019-edition)
-tmankle,0,Looking to invest my Roth IRA in an ETF or Mutual Fund(s). 21 years old and just getting into investing. Hoping for some advice.,"I just started an account in TD Ameritrade and put the max (6000$) in for the year. I have been told that tech ETF’s such as VGT are a safe option. I have also been told that investing riskier while I’m young is a good idea.
+2019-12-02,rover771,0,The Lowdown on Mutual Fund Capital Gains 2019 Edition,[https://www.morningstar.com/articles/956480/the-lowdown-on-mutual-fund-capital-gains-2019-edition](https://www.morningstar.com/articles/956480/the-lowdown-on-mutual-fund-capital-gains-2019-edition)
+2019-10-06,tmankle,0,Looking to invest my Roth IRA in an ETF or Mutual Fund(s). 21 years old and just getting into investing. Hoping for some advice.,"I just started an account in TD Ameritrade and put the max (6000$) in for the year. I have been told that tech ETF’s such as VGT are a safe option. I have also been told that investing riskier while I’m young is a good idea.
 I am wondering what ETF’s or mutual funds are reliable and wether I should plan on trading frequently or not. I can also purchase commission free stocks or not and wondering if that would be worth it. 
 I am hoping to just make safe choices for the future and thought that reddit would give great advice. So many stocks to choose from it overwhelms me right now. Thanks!"
-jrafar,3,Different Accounts for Stocks and Mutual Funds?,"I have one single brokerage account with stocks & mutual funds and am finding it confusing because of the way they trade during the day - stocks throughout the day, and the funds settling at the end of the day. I’m wondering if other investors have the same problem or if they separate the two into different accounts."
-msiekkinen,0,Mutual funds still not priced for day at 10PM EST?,"It's now 10PM est as I post this and I'm still not seeing end of day prices for Dimentional mutual funds.
+2019-10-23,jrafar,3,Different Accounts for Stocks and Mutual Funds?,"I have one single brokerage account with stocks & mutual funds and am finding it confusing because of the way they trade during the day - stocks throughout the day, and the funds settling at the end of the day. I’m wondering if other investors have the same problem or if they separate the two into different accounts."
+2019-11-02,msiekkinen,0,Mutual funds still not priced for day at 10PM EST?,"It's now 10PM est as I post this and I'm still not seeing end of day prices for Dimentional mutual funds.
 
 They're usually done by 6 or 7 at the latest from my experience.  
 
 I guess I'm just curious if anyone else has noticed this before/what's up."
-chargum,0,Small Mutual Funds with HUGE end of year Capital Gains must be designed only for IRA and 401K funds,"I have been researching some high flying growth mutual funds and like to see if they have any dividends.  Many have a near-zero dividend yield but have a HUGE end of year Capital Gain Distribution in December.  In many cases, the Capital Gain Distribution is up to 20% of the share value.
+2019-09-27,chargum,0,Small Mutual Funds with HUGE end of year Capital Gains must be designed only for IRA and 401K funds,"I have been researching some high flying growth mutual funds and like to see if they have any dividends.  Many have a near-zero dividend yield but have a HUGE end of year Capital Gain Distribution in December.  In many cases, the Capital Gain Distribution is up to 20% of the share value.
 
 If you owned that investment outside of an IRA or 401K where you don't have to worry about taxes before you retire, this could be a terrible end of the year surprise.
 
 Does anyone on Reddit get burned by huge capital gain distributions at the end of the year in mutual funds?"
-Fat_flatulence,0,Ideas for mutual fund investments?,"Hey r/Investing , so I want to start investing for long term/retirement a bit more.  I have a Fidelity 401k and some stock options with the company I am with, but I want to do a bit more.  I periodically get some extra cash from things like CC cash back, mileage expenses from work, side jobs etc. and I have a pretty set budget for everything else so I'd like to take this extra $100-$200 a month and put it into some investments every month.
+2019-08-28,Fat_flatulence,0,Ideas for mutual fund investments?,"Hey r/Investing , so I want to start investing for long term/retirement a bit more.  I have a Fidelity 401k and some stock options with the company I am with, but I want to do a bit more.  I periodically get some extra cash from things like CC cash back, mileage expenses from work, side jobs etc. and I have a pretty set budget for everything else so I'd like to take this extra $100-$200 a month and put it into some investments every month.
 
 Would these funds be a good starting point with Fidelity?
 
 FSKAX - Total Market Index Fund  
 FTIHX - Total International Fund  
 FXNAX - U.S. Bond Index Fund"
-victor0nl1n3,0,How do I see the holdings of a mutual fund?,"Hi everyone,
+2019-10-25,victor0nl1n3,0,How do I see the holdings of a mutual fund?,"Hi everyone,
 
 I'm currently reading *The Little Book of Value Investing* by Christopher H. Browne. In this book, the author recommends:
 
@@ -578,15 +578,15 @@ Note that I'm not really interested in this fund, I'm just trying to understand 
 &#x200B;
 
 Cheers!"
-thelostgeologist,0,Mutual funds and Pre tax roll over IRA,"I am trying to figure out if I pay taxes when a mutual fund rebalances its fund if the mutual fund is in a rollover IRA(pretax) I am assuming yes. 
+2019-11-12,thelostgeologist,0,Mutual funds and Pre tax roll over IRA,"I am trying to figure out if I pay taxes when a mutual fund rebalances its fund if the mutual fund is in a rollover IRA(pretax) I am assuming yes. 
 
 In my post tax Roth IRA I didn’t pay any tax when the funds were rebalanced."
-AbsoluteDeku,3,Question when choosing between two similiar mutual funds,"Im new to investing and was wondering. vfiax is priced at around $270, dividends at 1.96  and vtsax is priced around $70, dividend at 1.87. 
+2019-10-14,AbsoluteDeku,3,Question when choosing between two similiar mutual funds,"Im new to investing and was wondering. vfiax is priced at around $270, dividends at 1.96  and vtsax is priced around $70, dividend at 1.87. 
 
 If you put down, say 3000 dollars at both mutual funds wouldnt vtsax give you more dividends per month (assuming the dividends happen every month) because the initial price of the mutual fund is cheaper meaning you have more shares? Which mean more dividends?
 
 TLDR: vfiax has higher dividend per share, but vtsax will have more dividends overall due to its lower market price cost and the fact that you can buy 3 vtsax for the price of 1 vfiax?"
-Deadus,0,Risky Monthly Dividend ETfs/stocks/mutual funds,"I'm looking for higher yield dividend stocks that I can use to pad my fairly safe (Stable) portfolio and give it an increase in dividends.
+2019-09-28,Deadus,0,Risky Monthly Dividend ETfs/stocks/mutual funds,"I'm looking for higher yield dividend stocks that I can use to pad my fairly safe (Stable) portfolio and give it an increase in dividends.
 
 I need a stock that for a fairly low/small cost you have something that can make you a big dividend or a little one depending on the market at the time of div record date. Something that has the variable to preform quite well and generally grow. A higher risk investment if you will that will get you making more.
 
@@ -623,11 +623,11 @@ If you know of any other good monthly items slash high yielding investments I ca
 &#x200B;
 
 Current Div yield on $1425 is $8.90 a month"
-huggybear123,23,Why is Vanguard trying to get me to convert my mutual funds to ETF?,"I got an email from vanguard advertising this. And when you sign into the website, I also get that advertisement.
+2019-07-01,huggybear123,23,Why is Vanguard trying to get me to convert my mutual funds to ETF?,"I got an email from vanguard advertising this. And when you sign into the website, I also get that advertisement.
 
 I already know the the advantages and the difference between the mutual funds and ETFs. But what I don't understand is why Vanguard is pushing this so much."
-kristijano999,0,Mutual funds trends,I was just wondering are mutual funds really as bad as some people would like us to belive or are the a genuinely good investment?
-hotlineforhelp,5,REITs or Real Estate Mutual Funds?,"Basically, I don't want to touch my 401k, Roth, etc. These are tax-deferred and any income I generate won't be realized until I am about to retire.
+2019-08-26,kristijano999,0,Mutual funds trends,I was just wondering are mutual funds really as bad as some people would like us to belive or are the a genuinely good investment?
+2019-06-18,hotlineforhelp,6,REITs or Real Estate Mutual Funds?,"Basically, I don't want to touch my 401k, Roth, etc. These are tax-deferred and any income I generate won't be realized until I am about to retire.
 
 &#x200B;
 
@@ -642,10 +642,10 @@ But then I looked into Real Estate Mutual Funds that are essentially the same th
 I am looking Real Estate Mutual Funds like TRREX or VGSIX or TIREX.
 
 Am I thinking about this the right way?"
-chargum,3,How can high cost Managed Growth Mutual Funds beat the index year after year?,"People tell me that mutual funds are so 20th Century.  With a combination of high fees and poor leadership, most don't beat a simple low-cost index fund.  But some do.  I want to know how?
+2019-08-29,chargum,3,How can high cost Managed Growth Mutual Funds beat the index year after year?,"People tell me that mutual funds are so 20th Century.  With a combination of high fees and poor leadership, most don't beat a simple low-cost index fund.  But some do.  I want to know how?
 
 Why do some managed mutual funds with high fees still manage to beat the index fund?  Do you own these funds?  As fees for index funds continued to drop how can managed high fee mutual funds outperform?"
-ron_leflore,577,You can now import stock/etf/mutual fund data into Excel.,"Microsoft recently released an update to Excel for Office 365 that allows you to import stock data.  See how [here](https://support.office.com/en-us/article/get-a-stock-quote-e5af3212-e024-4d4c-bea0-623cf07fbc54).
+2019-02-07,ron_leflore,573,You can now import stock/etf/mutual fund data into Excel.,"Microsoft recently released an update to Excel for Office 365 that allows you to import stock data.  See how [here](https://support.office.com/en-us/article/get-a-stock-quote-e5af3212-e024-4d4c-bea0-623cf07fbc54).
 
 They have data from[ a bunch of different exchanges](https://support.office.com/en-us/article/about-our-data-sources-98a03e23-37f6-4776-beea-c5a6c8e787e6?ui=en-US&rs=en-US&ad=US) around the world.
 
@@ -655,8 +655,8 @@ I'm pretty sure you need Microsoft Excel for Office 365, not any old versions.  
 File->Account.
 
 If you have Excel for Office 365, but don't see the feature,  try File->Account->Update Options->Update Now to force an update."
-big_ole_johnson,28,Small cap mutual funds,So I'm looking to invest in a small cap mutual fund but do they really produce higher returns than say an S&P 500 index fund.  Any suggestions on what funds?
-HomericOdyssey,19,Mutual Funds & ETF Historical Performance Review,"As much as I think I know, I realize I know less than I should.  With that in mind, I find myself needing to determine the historical performance of a several index funds, as well as several managed funds and ETFs, some of which are closed-end.  Ultimately, I am trying to determine historical performance to evaluate current suitability and risk tolerance for my portfolio.
+2019-07-08,big_ole_johnson,23,Small cap mutual funds,So I'm looking to invest in a small cap mutual fund but do they really produce higher returns than say an S&P 500 index fund.  Any suggestions on what funds?
+2019-07-14,HomericOdyssey,20,Mutual Funds & ETF Historical Performance Review,"As much as I think I know, I realize I know less than I should.  With that in mind, I find myself needing to determine the historical performance of a several index funds, as well as several managed funds and ETFs, some of which are closed-end.  Ultimately, I am trying to determine historical performance to evaluate current suitability and risk tolerance for my portfolio.
 
 &#x200B;
 
@@ -669,48 +669,48 @@ Your recommendations for both education on this topic, and the proper formulas t
 &#x200B;
 
 Thank you."
-newinvest236376,1,E-Trade Mutual Fund Thoughts,"Hello out there. New poster here and I could use some thoughts based in your prior experience.  There’s quite a few questions here so thanks in advance for addressing any where you may have some wisdom. 
+2019-08-13,newinvest236376,1,E-Trade Mutual Fund Thoughts,"Hello out there. New poster here and I could use some thoughts based in your prior experience.  There’s quite a few questions here so thanks in advance for addressing any where you may have some wisdom. 
 
 First some background. I’ve been looking into the various platforms to invest in mutual funds. I’m open to ideas and came across etrade and I’m considering investing in aggressive growth mutual funds. I’ve got around $1,000 per month to invest (500 per paycheck). At 40 I’m definitely late to the retirement game but I’m fortunate enough to be in a position where at 53 when I “retire” from my current position I’ll have guaranteed pension of at least $80k per year for life (+ SS in my 60’s); that’s based on my current salary so it’ll probably be higher.  I’m looking at this investment plan to supplement that income.  Of course I intend to work a little but, PT, and be selective.  My only debt is a car payment and some CC debt which is paid in full every month. 
 
 Therefore, I can invest the aforementioned $1k per month. The question is:  How do I do this? I assume I just open the account, set the money to auto deposit, pick the mutual fund, and be done. Is it that simple? I would ideally pick from one of the few thousand no fee funds they have. When I deposit the next amount of money does it to that prior picked fund or do I have to “buy” each time?  My plan would be to select the funds that are deemed most aggressive. I was thinking maybe three or four, does that make sense? Do I incur a fee with every deposit?  Maybe etrade isn’t the best option?  Since I’m asking so many questions would you recommend a robo investing platform for something like this instead?  If so, which one? 
 
 I have a professional six figure job that requires an advanced business type degree but clueless on these issues.  As Denzel said in Philadelphia, explain this to me like I’m a two year old ok because there’s an element to this thing I just can not get through my thick head."
-chargum,0,I can't find a growth mutual fund that beat QQQ (NASDAQ ETF) since 2009,"If you would have invested $10,000 in QQQ in March 2009, when the stock market hit bottom, you would have $70,000 on August 31, 2019. ($48,945 in a total stock market fund.)
+2019-09-09,chargum,0,I can't find a growth mutual fund that beat QQQ (NASDAQ ETF) since 2009,"If you would have invested $10,000 in QQQ in March 2009, when the stock market hit bottom, you would have $70,000 on August 31, 2019. ($48,945 in a total stock market fund.)
 
 I was given a list of the best mutual funds and put their symbols into Portfolio Visualizer and could not find any that did better than QQQ (a low fee ETF).  Why bother with mutual funds!  Can you tell me a better mainstream mutual fund or ETF investment of $10,000 in March 2009 to the present than QQQ?"
-gutfbuhnj,1,Is there absolutely any advantage of a mutual fund over a similar ETF?,
-PineappleDreams_,0,Taxes On Mutual Fund Reinvested Distributions,"If I were to have my yearly mutual fund distributions to be automatically reinvested, what money do I pay the capital gains taxes with? Will that tax money be coming out of my pocket or do the ""fund managers/brokers"" send it to the IRS for me? 
+2019-07-30,gutfbuhnj,1,Is there absolutely any advantage of a mutual fund over a similar ETF?,
+2019-09-06,PineappleDreams_,0,Taxes On Mutual Fund Reinvested Distributions,"If I were to have my yearly mutual fund distributions to be automatically reinvested, what money do I pay the capital gains taxes with? Will that tax money be coming out of my pocket or do the ""fund managers/brokers"" send it to the IRS for me? 
 I'm new to all of this and I want to start investing soon. Along with answers feel free to give me beginner advice."
-CooleyRain,5,Thoughts on KCMTX and CLSHX and other mutual funds in my IRA.,"I have both of these mutual funds in my IRA. I’ve had them for about a year now. KCMTX has been in the negative every since I purchased and right now it’s around -14%. Also CLSHX has been in the negative and is around-11%.
+2019-07-22,CooleyRain,5,Thoughts on KCMTX and CLSHX and other mutual funds in my IRA.,"I have both of these mutual funds in my IRA. I’ve had them for about a year now. KCMTX has been in the negative every since I purchased and right now it’s around -14%. Also CLSHX has been in the negative and is around-11%.
 Between the two I have about $10k in them. Do you feel that it’s worth staying in them, or cutting my lose and moving it to something like VOO which has a very low fee. 
 I just don’t know if I should just keep the money where it’s at or roll it into an index to save on management fees. I also have HLMNX, FTHNX, BUFIX, and SWPPX. Which are all mutual funds. Should I also moves these to an index fund? I’d just like to hear some of your opinions. 
 Thanks"
-dynamic87,0,Does Ally investment allow mutual fund. Is there $0 commission mutual funds?,
-Nat9523,4,Selling shares of mutual fund?,If i put in an order to sell shares of a mutual fund before the market opens today will it execute at the nav after market closes today or nav after market closes tomorrow?
-darkslate2,2,Merrill Edge mutual funds NTF?,"Hello I have been trying to find this all over online. Does Merrill have any mutual funds that don’t cost a fee to buy/sell? It seems everyone is posting about this on their website from fidelity to schwab to td ameritrade and etc.   
+2019-10-26,dynamic87,0,Does Ally investment allow mutual fund. Is there $0 commission mutual funds?,
+2019-09-12,Nat9523,5,Selling shares of mutual fund?,If i put in an order to sell shares of a mutual fund before the market opens today will it execute at the nav after market closes today or nav after market closes tomorrow?
+2019-09-15,darkslate2,2,Merrill Edge mutual funds NTF?,"Hello I have been trying to find this all over online. Does Merrill have any mutual funds that don’t cost a fee to buy/sell? It seems everyone is posting about this on their website from fidelity to schwab to td ameritrade and etc.   
 
 Thank you!!"
-DybbukTX,2,Mutual fund asking for my bank password,"I just went to one of my mutual funds' websites and tried to change the associated bank account, but I canceled out when I discovered that they required me to provide my user name **and password** for my online access to that account. Is this SOP now? I've never seen this before. Seems like there is potential for...*something* bad to happen."
-freyzha,3,Quick clarification on the price of mutual funds as it relates to order timing.,"So, I'm aware that mutual fund prices are set once per day (typically near or after the end of day trading bell). What I'm a little confused about is how a price is associated with any given order.
+2019-08-29,DybbukTX,1,Mutual fund asking for my bank password,"I just went to one of my mutual funds' websites and tried to change the associated bank account, but I canceled out when I discovered that they required me to provide my user name **and password** for my online access to that account. Is this SOP now? I've never seen this before. Seems like there is potential for...*something* bad to happen."
+2019-08-23,freyzha,3,Quick clarification on the price of mutual funds as it relates to order timing.,"So, I'm aware that mutual fund prices are set once per day (typically near or after the end of day trading bell). What I'm a little confused about is how a price is associated with any given order.
 
 Let's say that I initiate a $1000 order for $VTSAX at 1 pm, before the bell closes. The price of $VTSAX at the end of the day is $100, and my order is filled, meaning I receive 10 shares of $VTSAX upon execution and see that the next time my account is updated after all transactions are settled. Nothing fancy, and easy to understand.
 
 Now let's say that I place an order for $VTSAX at 10 pm, after the price has been set at $100. Will I immediately have my order executed and receive 10 shares? Or, because the market has already closed, will my order be queued up and executed the next time that $VTSAX's price gets set, aka the end of the next trading day? Let's say that in this scenario, I initiate the same $1000 order at 10 pm, the closing price for the current day is $100, and the closing price for the next day is $200: **how many shares will I have when my $1000 order executes?**
 
 What if I make that same $1000 order at 12:00:01 am the next day?"
-ceschoseshorribles,3,Does anyone offer custom mutual funds?,"For example, say I want a NASDAQ index fund but I want to be able to not own any Comcast shares.  This will be extremely annoying to re-create by buying individual stocks, rebalance, etc. But it would be pretty easy to program. Does anyone offer such an option?"
-peterlynchthrowaway,0,Moving money out of a mutual fund,"My parents gave me a mutual fund with American Century All Cap when I was born.  Right now its at about 35k.  
+2019-08-07,ceschoseshorribles,3,Does anyone offer custom mutual funds?,"For example, say I want a NASDAQ index fund but I want to be able to not own any Comcast shares.  This will be extremely annoying to re-create by buying individual stocks, rebalance, etc. But it would be pretty easy to program. Does anyone offer such an option?"
+2019-08-18,peterlynchthrowaway,0,Moving money out of a mutual fund,"My parents gave me a mutual fund with American Century All Cap when I was born.  Right now its at about 35k.  
 
 I'm 25, I have a job that provides housing and food for the next two years so I have no expenses.  I want to take advantage of this time and invest a little more aggressively and get higher returns than the 4-5% that the mutual fund gets.
 
 Do I have other, obvious options to get even a slightly a higher return?  Is this a stupid idea? Tell me what I don't know, and what I should watch out for.  I feel like I could do better than 4.8%."
-rennyrenwick,0,Division of Non-retirement Mutual Fund Holdings at Divorce,"Question about division of non-retirement mutual funds during a divorce. I'm hoping someone here has been through similar.
+2019-08-25,rennyrenwick,0,Division of Non-retirement Mutual Fund Holdings at Divorce,"Question about division of non-retirement mutual funds during a divorce. I'm hoping someone here has been through similar.
 
 Lets assume each partner had agrees to a 50/50 split of a non-retirement jointly held mutual fund of $100K, which has been held greater than 2 years.
 
 Assuming no sale or other changes, is this a taxable event? Are capitol gains taxes paid by each divorcing party, or does each investment continue as before, accruing or depreciating until actual sale by the now individual parties."
-MasterCookSwag,287,"Experience a large unexplained drop in your mutual fund/ETF? Dont worry, it's normal this time of year. Explanations inside.","Every year in December we start to get 5-10 posts a day asking this question. Rather than have a ton of clutter in the sub I'm going to be stickying this post until the end of the month.
+2018-12-11,MasterCookSwag,289,"Experience a large unexplained drop in your mutual fund/ETF? Dont worry, it's normal this time of year. Explanations inside.","Every year in December we start to get 5-10 posts a day asking this question. Rather than have a ton of clutter in the sub I'm going to be stickying this post until the end of the month.
 
 A mutual fund is essentially just a basket of individual stocks/bonds/whatever. Within that basket the fund managers are constantly selling/buying and receiving dividends. The IRS has special rules for mutual funds which allow them to not pay taxes on the capital gains/dividends generated provided they pass through almost all of the proceeds from said activities to the shareholder within the calendar year. So dividends are often paid on some set schedule but capital gains are generally retained within the fund till the end of the year(because losses can reduce gains but can't be distributed to a shareholder). 
 
@@ -731,7 +731,7 @@ https://mutualfundobserver.com/discuss/discussion/43848/2018-mutual-funds-prelim
 Ctrl + f your fund family. Chances are it's on one of these two pages. If not, google search ""______ funds capital gains distributions 2016""
 
 **Please note we'll probably be deleting any threads on the subject and pointing people here in order to keep the clutter down.**"
-thisguyfuchzz,4,Derivative overlay mutual funds,"Hey everyone, I’ve recently been exploring funds that use overlays to gain exposure to indexes as well as short term bonds. They tend to outperform the underline index. 
+2019-07-24,thisguyfuchzz,5,Derivative overlay mutual funds,"Hey everyone, I’ve recently been exploring funds that use overlays to gain exposure to indexes as well as short term bonds. They tend to outperform the underline index. 
 
 Does anyone know of similar strategies offered by anyone other than doubleline and pimco?
 
@@ -740,7 +740,7 @@ Does anyone know of similar strategies offered by anyone other than doubleline a
 https://www.pimco.com/en-us/investments/mutual-funds/rae-plus-emg-fund/inst
 
 https://www.morningstar.com/funds/xnas/dseex/quote"
-OujiSamaOG,0,Best Sharia Compliant Mutual Fund / ETF?,"Okay so it seems like the consensus is that Vangaurd is the end all be all of mutual funds.
+2019-06-27,OujiSamaOG,0,Best Sharia Compliant Mutual Fund / ETF?,"Okay so it seems like the consensus is that Vangaurd is the end all be all of mutual funds.
 
 What is the closest Sharia compliant equivalent(s), and why? 
 
@@ -751,7 +751,7 @@ I would ask this question in r/islamicfinance but the community is too small to 
 Help would be highly appreciated!
 
 EDIT: Since the toxic comments have begun trickling in, please keep religious discussions to r/religion. This sub is to discuss investing and if you have a problem with Islam, please ignore this post."
-TheStrangeOldSteve,0,Mutual fund dividends vs stock dividend?,"First off, does the mutual fund share price drop when the fund pays out dividends? This is the behavior of stocks, do mutual funds follow the same behavior?
+2019-09-22,TheStrangeOldSteve,0,Mutual fund dividends vs stock dividend?,"First off, does the mutual fund share price drop when the fund pays out dividends? This is the behavior of stocks, do mutual funds follow the same behavior?
 
 2nd, I know you generally ignore dividends if you're selling a stock. (You dont need to time it and sell right after a dividend is paid to maximize profit). Is this the same for mutual funds?
 
@@ -760,7 +760,7 @@ Those are the primary questions. My specifics that you can weigh in on if you li
 I'm considering selling OPPAX I have way to much international stock. It's too volatile for me. The expenses are too high. I dont understand the dividend.I know they pay annual dividends in December. On seekingAlpha, it shows 3 separate dividends of $.40, $.8 and $9??? on a 80$ share price in 12/2018!!!!! What? Is that real? Plz explain.
 
 Should I hold until after the dividend is paid to sell?"
-waltwhitman83,5,"If you race to save $100k in mutual funds by 30, can you stop investing?","According to https://www.daveramsey.com/smartvestor/investment-calculator, if you are 30 retiring at 67 with $100k expecting a 10% return, you'll retire with $3.4m.
+2019-04-15,waltwhitman83,5,"If you race to save $100k in mutual funds by 30, can you stop investing?","According to https://www.daveramsey.com/smartvestor/investment-calculator, if you are 30 retiring at 67 with $100k expecting a 10% return, you'll retire with $3.4m.
 
 That probably isn't super realistic because as you age, you wouldn't be in something that 100% tracks the ""volatile"" market, but probably something more along the lines of a diversified portfolio with bonds. That would most likely drop the overly simplistic annual return rate of 10%.
 
@@ -769,7 +769,7 @@ However, it's also super unrealistic that from 30-67, you'll never contribute an
 How unrealistic is it to race to $100k by 30? I think I've read that the average American is probably woefully behind that, but I think across home equity/etc. the average American is probably pretty close to $50k-$75k net worth (excluding 30 year mortgage debt).
 
 How unrealistic are 10% YoY returns? https://en.wikipedia.org/wiki/S%26P_500_Index#Annual_returns quotes 10.53% from 1970 - 2018. I don't know if I'm incorrectly not adjusting for inflation."
-waltwhitman83,21,The age old question of real estate investing versus mutual funds for the average Joe,"I had an interesting conversation with somebody this weekend. They seemed to believe that:
+2019-05-12,waltwhitman83,19,The age old question of real estate investing versus mutual funds for the average Joe,"I had an interesting conversation with somebody this weekend. They seemed to believe that:
 
 1. mutual funds are extremely risky and you can lose all of your money because ""stocks are risky""
 
@@ -786,19 +786,19 @@ We all know the US market has historically yielded 10% with dividends reinvested
 In my case, mortgage interest and property taxes wouldn't be greater than the standard deduction. Granted, that's for one property, not 4. I just don't know how I'd get a bank to give me 4 loans for 4 rental properties on my 1 salary income. Nor would I want to have that much open debt, lol
 
 If you make $40-60k/yr and save up $20k, the bank might give you a $250-300k loan at maximum. Now, say you use that money to buy a rental property and you can prove for 12 months that you've had rental income under a contract, etc. When you go back to the bank for a second time (say with another $20k), do they give you *another* $250k-$300k loan? If not that amount, how much? Or do they not allow you to leverage like that?"
-chargum,1,I may pay a sales load next time I purchase a mutual fund?,"Some of the stock and bond mutual funds I own have a sales load, but they are waived by Fidelity for its customers.  I also have cash in an Ameritrade account and some of the mutual funds I am interested in have a sales load with Ameritrade.
+2019-09-04,chargum,1,I may pay a sales load next time I purchase a mutual fund?,"Some of the stock and bond mutual funds I own have a sales load, but they are waived by Fidelity for its customers.  I also have cash in an Ameritrade account and some of the mutual funds I am interested in have a sales load with Ameritrade.
 
 Do you find that some brokerage companies charge a sales load on the same funds that are load waived by Fidelity?
 
 Have you ever bought a mutual fund with a sales load and still thought it was a good investment?  Which ones?"
-GloomyAmphibian,6,Is there an 'Opposite' of an SRI investment? Do any mutual funds focus on unethical or immoral business practices?,"There's a fund called VICEX which according to the prospectus  **derives a significant  portion of their revenues from a group of vice industries that includes the  alcoholic beverages, defense/aerospace, gaming and tobacco industrie**s
+2019-09-07,GloomyAmphibian,5,Is there an 'Opposite' of an SRI investment? Do any mutual funds focus on unethical or immoral business practices?,"There's a fund called VICEX which according to the prospectus  **derives a significant  portion of their revenues from a group of vice industries that includes the  alcoholic beverages, defense/aerospace, gaming and tobacco industrie**s
 
 Is there a way to find more sin stocks or vice funds, or is it more of a personal preference?"
-kostadio,16,Typical age of mutual fund investors in USA,"Hey guys,
+2019-07-26,kostadio,15,Typical age of mutual fund investors in USA,"Hey guys,
 I’m doing a research about mutual funds.
 Does anyone know what’s the typical age of mutual fund investors in the States?
 Appreciate if you can provide any answers and sources. Thanks"
-CautiousInvestor,0,ETFs are strictly superior to their equivalent mutual funds.,"ETFs seem to have a whole bunch of advantages over mutual funds, with virtually no disadvantages. Granted, these advantages aren't huge, but since they are all stacked on the ETF side, it means you should **always choose the ETF** when both ETF and mutual fund vehicles are available for any investment.
+2019-07-27,CautiousInvestor,0,ETFs are strictly superior to their equivalent mutual funds.,"ETFs seem to have a whole bunch of advantages over mutual funds, with virtually no disadvantages. Granted, these advantages aren't huge, but since they are all stacked on the ETF side, it means you should **always choose the ETF** when both ETF and mutual fund vehicles are available for any investment.
 
 Here are the advantages:
 
@@ -833,17 +833,17 @@ That's very important to a long-term buy-and-holder who is already at a high tax
 **Summary**
 
 With several advantages and no known disadvantages to buying ETFs versus mutual funds, it seems the only reason to ever buy a mutual fund is when no appropriate ETF alternative exists. When such alternative does exist, it should be the preferred investment vehicle."
-flybonzai0725,15,Is it a bad idea to switch my ETFs over to the corresponding mutual fund?,"I don't like that I always have some money left over because you have to buy full shares, and want to set up a monthly automated purchase.
+2019-06-02,flybonzai0725,17,Is it a bad idea to switch my ETFs over to the corresponding mutual fund?,"I don't like that I always have some money left over because you have to buy full shares, and want to set up a monthly automated purchase.
 
 Also, I use Fidelity but currently have VTI and the Vanguard international market fund, if I switch should I go with the Fidelity zero funds instead?"
-WoolyMammothSlammoth,2,Growth Stock Mutual Funds,"Few quick questions: are there any good tools to compare which funds outperform the s&p? Also, are mutual funds known to have high dividend returns? I know that depends on the company, but just asking!
+2019-07-26,WoolyMammothSlammoth,2,Growth Stock Mutual Funds,"Few quick questions: are there any good tools to compare which funds outperform the s&p? Also, are mutual funds known to have high dividend returns? I know that depends on the company, but just asking!
 
 Thanks."
-mac-0,83,"Beginning January 22, 2019, Vanguard will no longer accept purchases in leveraged or inverse mutual funds, ETFs (exchange-traded funds), or ETNs (exchange-traded notes)","https://investor.vanguard.com/investing/leveraged-inverse-etf-etn
+2019-01-08,mac-0,89,"Beginning January 22, 2019, Vanguard will no longer accept purchases in leveraged or inverse mutual funds, ETFs (exchange-traded funds), or ETNs (exchange-traded notes)","https://investor.vanguard.com/investing/leveraged-inverse-etf-etn
 
 Basically, you will no longer be able to purchase funds like SPXL, which aim to return 3x the daily SP500 gain/loss. "
-seinfeldemd,0,Mutual Funds,"I have three mutual funds that I've invested in. FXAIX, FOCPX, and FBGRX. When is the right time to put more money into those funds. When the market is low or maybe put in some money after a paycheck?"
-drendon6891,1,Buying Index Mutual Funds vs Fractional Share ETFs,"Is there any practical difference? 
+2019-08-06,seinfeldemd,0,Mutual Funds,"I have three mutual funds that I've invested in. FXAIX, FOCPX, and FBGRX. When is the right time to put more money into those funds. When the market is low or maybe put in some money after a paycheck?"
+2019-07-14,drendon6891,0,Buying Index Mutual Funds vs Fractional Share ETFs,"Is there any practical difference? 
 
 I’m talking specifically about buying VTSAX directly from Vangurd vs buying VTI on M1, btw. I’m aware non-Vanguard MFs usually carry a load fee, with a few exceptions in loss leaders from Fidelity.
 
@@ -858,16 +858,16 @@ This means I can buy fractional shares, which eliminates the disadvantage of pot
 It also eliminates the advantage of being able to buy intraday, as all trades are done during a specific trading window.
 
 So unless I’m missing something (I’ll give that document a thorough read later), I can’t spot any differences?"
-SpliTTMark,0,im currently in these mutual funds at charles schwab are they worth the long run?,"sblyx: clearbridge large
+2019-07-07,SpliTTMark,0,im currently in these mutual funds at charles schwab are they worth the long run?,"sblyx: clearbridge large
 
 imidx: congress mid cap gr
 
 dhltx: diamond hills all cap"
-TheItalianGambetti,1,Selling mutual fund,Have you ever sold a mutual fund for a small gain or a very small loss just in order to move money into a more proficient fund or other investment?
-s3nte,61,How vanguard avoids taxes on mutual funds,"Interesting bloomberg article on how vanguard avoids cap gains on mutual funds:
+2019-08-20,TheItalianGambetti,1,Selling mutual fund,Have you ever sold a mutual fund for a small gain or a very small loss just in order to move money into a more proficient fund or other investment?
+2019-05-01,s3nte,61,How vanguard avoids taxes on mutual funds,"Interesting bloomberg article on how vanguard avoids cap gains on mutual funds:
 
 [https://www.bloomberg.com/graphics/2019-vanguard-mutual-fund-tax-dodge/](https://www.bloomberg.com/graphics/2019-vanguard-mutual-fund-tax-dodge/)"
-LiangXiaofeng,1,Can you do like-for-like swaps with ETFs like you can with mutual funds?,"Hello Redditors,
+2019-08-08,LiangXiaofeng,1,Can you do like-for-like swaps with ETFs like you can with mutual funds?,"Hello Redditors,
 
 &#x200B;
 
@@ -882,21 +882,21 @@ Thank you in advance for any help you all can provide!
 Kind Regards,
 
 Xiaofeng"
-jumpmanballerz,42,Why all the hate for mutual funds on here?,"Just wondering why there are no posts talking about active investing and mutual funds ? Everything is low cost ETFs.   
+2019-01-05,jumpmanballerz,46,Why all the hate for mutual funds on here?,"Just wondering why there are no posts talking about active investing and mutual funds ? Everything is low cost ETFs.   
 
 I understand a good portion of funds have fees that are too high and poor to average performance. That being said there are a lot of excellent active mutual funds with fair MERs that’s justify the cost.  Who cares if the fee is higher if the performance is consistently better?  Also good active funds have downside protection which ETFs don’t have.  
 Mawer for example doesn’t have a trailer fee on their funds and have many with excellent management with results you can’t match on an ETF. 
 What am I missing ? 
 
 Thanks "
-luckyduck695,8,Dividend Stock vs. Mutual Fund?,"Looking to begin dollar cost averaging a dividend paying security. Looking at either a high div. yield stock like Enbridge, or a mutual fund in which I haven’t done any research into yet. As a 21 year old student with other investments, risk is not an issue. I have decided to periodically put money into an investment to get my 10% fund going early.
+2019-07-05,luckyduck695,7,Dividend Stock vs. Mutual Fund?,"Looking to begin dollar cost averaging a dividend paying security. Looking at either a high div. yield stock like Enbridge, or a mutual fund in which I haven’t done any research into yet. As a 21 year old student with other investments, risk is not an issue. I have decided to periodically put money into an investment to get my 10% fund going early.
 
 I’ve had my eye on Enbridge for a while now cause they’re a solid company and have a div yield of 6.19 with the potential to make some gains, but a mutual fund has diversity on its side and also has higher fees I believe.
 
 Thoughts? I work at RBC and have a few mutual fund friends who can advise me in that section. Just looking for a compare and contrast of my options.
 
 Thanks!"
-verrucagnome,0,Android app - mutual fund value and history,"
+2019-09-14,verrucagnome,0,Android app - mutual fund value and history,"
 Hi
 
 I'm looking for an app that'll let me quickly see how my trackers are doing.
@@ -906,43 +906,43 @@ An example is
 Sedol:B80QG61
 
 All I need is the current valuation and history. It's not in the Bloomberg app."
-SharkLaser2019,4,Good Uranium plays for long term ETF and/or mutual funds?,"Just wanting to check out people opinion here in regards to best Uranium etf's and mutual funds ?  
+2019-08-20,SharkLaser2019,5,Good Uranium plays for long term ETF and/or mutual funds?,"Just wanting to check out people opinion here in regards to best Uranium etf's and mutual funds ?  
 
 Looking to get in and I am thinking of URA but wanted to see if there are any, possibly better options.  
 
 Thanks in advance!"
-brettbundha,0,Want to invest in JP Morgan through mutual fund,"I don't know where the economy is headed but I seem to trust Jamie Dimon will figure a way to weather whatever direction it goes.   I can only choose mutual funds for my 401k, what fund would be heavily invested in JP Morgan?"
-Pete489Z,0,Anyone know of a bond mutual fund or ETF that automatically reinvests its dividends?,
-armedmonkey,0,Diversifying investments with only mutual funds?,"Due to work, my wife and I can't easily invest in individual stocks or ETFs, so we have a vangaurd mutual fund portfolio. I'm struggling how to figure out how to diversify by sector for our domestic investments, because most of the high-rated funds I see end up favoring the same big companies (FANG, for example)"
-supertrucker39,2,Is there an easy way to screen mutual funds with the highest returns for the last month or 30 day period?,Looking for a tool to screen the highest performing mutual funds for the last month that carry no load.  I want to trade every month into the highest performers with a bit of a momentum trading strategy.
-gameover3384,3,Mutual fund stock ownership data,"Does anyone know a good source to pull aggregated equity ownership data of a specific mutual fund style? 
+2019-06-27,brettbundha,0,Want to invest in JP Morgan through mutual fund,"I don't know where the economy is headed but I seem to trust Jamie Dimon will figure a way to weather whatever direction it goes.   I can only choose mutual funds for my 401k, what fund would be heavily invested in JP Morgan?"
+2019-06-20,Pete489Z,0,Anyone know of a bond mutual fund or ETF that automatically reinvests its dividends?,
+2019-06-15,armedmonkey,0,Diversifying investments with only mutual funds?,"Due to work, my wife and I can't easily invest in individual stocks or ETFs, so we have a vangaurd mutual fund portfolio. I'm struggling how to figure out how to diversify by sector for our domestic investments, because most of the high-rated funds I see end up favoring the same big companies (FANG, for example)"
+2019-07-01,supertrucker39,2,Is there an easy way to screen mutual funds with the highest returns for the last month or 30 day period?,Looking for a tool to screen the highest performing mutual funds for the last month that carry no load.  I want to trade every month into the highest performers with a bit of a momentum trading strategy.
+2019-06-27,gameover3384,3,Mutual fund stock ownership data,"Does anyone know a good source to pull aggregated equity ownership data of a specific mutual fund style? 
 
 For example:  the top 20 stocks held by small cap value funds"
-Keystone_Heavy1,3,How risky are high yield bond mutual funds really?,"Just fishing for some insights from those more experienced than me. I know that with any given low-grade bond there is a risk of default, but with some of these funds that have hundreds of bonds in them, is there really that great of a risk of something catastrophic happening? There are high yield bond funds that have existed for decades and seem to give a fairly consistent payout. Is the risk more about the fluctuations in NAV more than fluctuations in the actual monthly/quarterly payout?"
-Watch_Watcher,25,Treasury Releases Proposed Regulations Confirming Qualified REIT Dividend 20% Deduction Applies to Mutual Fund Shareholders,"Today the Treasury Department released Proposed Regulations related to the 20% deduction for certain business income enacted in the 2017 tax reform bill. The Proposed Regulations confirm that the section 199A 20% deduction applies to Qualified REIT Dividends received by mutual fund shareholders. The timing of this guidance is significant for the preparers of Forms 1099-Div which are due to shareholders in a matter of weeks. New box 5 on the 2019 Form 1099-Div is specifically designated for section 199A dividends, including Qualified REIT Dividends to direct REIT shareholders and which Treasury, through the Proposed Regulations, has now confirmed includes those mutual fund dividends that are properly treated as Qualified REIT Dividends. Taxpayers may rely on the Proposed Regulations until final regulations are published. Nareit commends the Treasury Department and the IRS for releasing this helpful guidance that will allow millions of Americans, including people of moderate incomes, to obtain the tax deduction for REIT dividends as Congress intended.
+2019-07-04,Keystone_Heavy1,3,How risky are high yield bond mutual funds really?,"Just fishing for some insights from those more experienced than me. I know that with any given low-grade bond there is a risk of default, but with some of these funds that have hundreds of bonds in them, is there really that great of a risk of something catastrophic happening? There are high yield bond funds that have existed for decades and seem to give a fairly consistent payout. Is the risk more about the fluctuations in NAV more than fluctuations in the actual monthly/quarterly payout?"
+2019-01-23,Watch_Watcher,25,Treasury Releases Proposed Regulations Confirming Qualified REIT Dividend 20% Deduction Applies to Mutual Fund Shareholders,"Today the Treasury Department released Proposed Regulations related to the 20% deduction for certain business income enacted in the 2017 tax reform bill. The Proposed Regulations confirm that the section 199A 20% deduction applies to Qualified REIT Dividends received by mutual fund shareholders. The timing of this guidance is significant for the preparers of Forms 1099-Div which are due to shareholders in a matter of weeks. New box 5 on the 2019 Form 1099-Div is specifically designated for section 199A dividends, including Qualified REIT Dividends to direct REIT shareholders and which Treasury, through the Proposed Regulations, has now confirmed includes those mutual fund dividends that are properly treated as Qualified REIT Dividends. Taxpayers may rely on the Proposed Regulations until final regulations are published. Nareit commends the Treasury Department and the IRS for releasing this helpful guidance that will allow millions of Americans, including people of moderate incomes, to obtain the tax deduction for REIT dividends as Congress intended.
 
 
 https://www.reit.com/news/blog/nareit-developments/treasury-releases-proposed-regulations-confirming-qualified-reit"
-Roboculon,3,An argument for buying stocks rather than mutual funds/etfs,"This is not about saving on management fees, it’s about tax loss harvesting. 
+2019-04-25,Roboculon,4,An argument for buying stocks rather than mutual funds/etfs,"This is not about saving on management fees, it’s about tax loss harvesting. 
 
 I never get to do it because all my funds and etfs are super diverse, and the market has been up the last few years, so none of my funds are down overall. But if I had a variety of individual stocks instead (even the same stocks I already have in mutual funds), I’d have the ability to sell them and realize the losses for tax benefits. 
 
 In mutual funds there are individual holdings that go down, but they offer no tax benefit whatsoever, so the losses are effectively worse than they need to be. Using a loss to offset income is a huge effective reduction in the amount of net loss, and holding more individual stocks increases the odds you’ll get to do this.
 
 Am I missing anything?"
-stopez,3,Sell mutual funds for vanguard indexes?,"I currently have a small ROTH IRA that is the result of a few 401ks that had to be rolled out of retirement plans. I’ve never hit the yearly max and this is my first year having it. I have 3 funds, in an extremely aggressive stance portfolio as I’m 25 at the moment (SCHF, SCHX, SCHA from Schwab) however I’m learning more and more that vanguard is the way to go. 
+2019-06-13,stopez,4,Sell mutual funds for vanguard indexes?,"I currently have a small ROTH IRA that is the result of a few 401ks that had to be rolled out of retirement plans. I’ve never hit the yearly max and this is my first year having it. I have 3 funds, in an extremely aggressive stance portfolio as I’m 25 at the moment (SCHF, SCHX, SCHA from Schwab) however I’m learning more and more that vanguard is the way to go. 
 
 Should I sell all my SCH mutual funds to trade for VTSAX, VTIAX, VBTLX? I’m looking for a 70/20/10 split on vanguard and I have a high risk tolerance since I’m only 25.
 
 I’m looking to max out my ROTH contributions yearly from now on. 
 
 Is this something that’s a good idea or not?"
-weisdrunk,2,ETF vs Mutual Fund — performance comparison,"I know about the differences between ETFs & Mutual Funds.  But my question is, how does performance differ between two that have almost the exact same allocation?
+2019-07-03,weisdrunk,0,ETF vs Mutual Fund — performance comparison,"I know about the differences between ETFs & Mutual Funds.  But my question is, how does performance differ between two that have almost the exact same allocation?
 I looked up VOO vs VFINX — both vanguard S&P 500 index trackers.   And over 5 years they are 48.6% gain vs 48.46% gain.   How is it possible they are so close?   
 Aren’t ETFs basically built on speculation and mutual funds are true value?
 Is this saying that most ETFs are bought by computers that calculate the exact value of the underlying portfolio of an ETF to know when there is value, and not just random people choosing ETFs?
 Maybe I’m saying it wrong.  But I would think the buy/sell demand of an ETF would track at a greater difference than 0.14% over 5 years."
-insurance_novice,1,Vanguard mutual funds VTHRX,"Hello,
+2019-08-21,insurance_novice,1,Vanguard mutual funds VTHRX,"Hello,
 
 Recently I purchased a mutual fund with Vanguard through my brokerage. (I'm aware that I can buy shares for free via vanguard), and I noticed that the mutual fund only pays a dividend/capital gain once per year. 
 
@@ -951,8 +951,8 @@ Why does the mutual fund only pay once per year? Wouldn't it be more beneficial 
 The mutual fund ticker is VTHRX.
 
 Thanks"
-ctrl_alt_rip,1,Noob question about the actual workings of index mutual funds," if everyone that is currently invested in VTSAX sold half their stake in it, and then immediately purchased the equivalent index-tracking mutual fund at fidelity, would the price of VTSAX change? For the sake of argument, assume this is ceteris paribus--fidelity has an equivalent fund, the expense ratios are all exactly the same, etc, and the trade can be made instantaneously,"
-pangea67,0,How do you pronounce the names of mutual funds?,"Take for example FZILX, the Fidelity international fund. When talking about it, do I say:
+2019-07-01,ctrl_alt_rip,1,Noob question about the actual workings of index mutual funds," if everyone that is currently invested in VTSAX sold half their stake in it, and then immediately purchased the equivalent index-tracking mutual fund at fidelity, would the price of VTSAX change? For the sake of argument, assume this is ceteris paribus--fidelity has an equivalent fund, the expense ratios are all exactly the same, etc, and the trade can be made instantaneously,"
+2019-07-05,pangea67,0,How do you pronounce the names of mutual funds?,"Take for example FZILX, the Fidelity international fund. When talking about it, do I say:
 
 -fizz-zilcks
 
@@ -965,17 +965,17 @@ pangea67,0,How do you pronounce the names of mutual funds?,"Take for example FZI
 -Fidelity Zero International
 
 I personally say F-zilcks and not sure if there's a ""correct"" way to say those names other than saying out what it stands for."
-Darqu3,0,Mutual Fund Vs ETF,"Good Morning! I'm using Fidelity to house my IRA that i make weekly deposits into. My big question here is what is the difference between FXIAX and IVV. Should I switch to IVV? IVV seems much cheap at 0.05 compared to 0.15. Does Fidelity allow pieces of a stock to be sold? Like the FXIAX price is $100, Fidelity allows the purchase of $50 to be made. Is it the same for an ETF?
+2019-06-13,Darqu3,0,Mutual Fund Vs ETF,"Good Morning! I'm using Fidelity to house my IRA that i make weekly deposits into. My big question here is what is the difference between FXIAX and IVV. Should I switch to IVV? IVV seems much cheap at 0.05 compared to 0.15. Does Fidelity allow pieces of a stock to be sold? Like the FXIAX price is $100, Fidelity allows the purchase of $50 to be made. Is it the same for an ETF?
 
 &#x200B;
 
 Thanks"
-Cookiemobsta,7,"If I place an order to buy a mutual fund, when does the order actually go through?","Let's say today after the market closes I place an order to buy an S&P 500 index fund. Tomorrow, the S+P (and therefore my fund) goes up by 1%. When my order goes through, do I buy the fund at the lower price it was at when the market opens tomorrow, or the higher price it was at when the market closes tomorrow? Does it matter in any way if I place the order today while the market is still open?
+2019-04-24,Cookiemobsta,6,"If I place an order to buy a mutual fund, when does the order actually go through?","Let's say today after the market closes I place an order to buy an S&P 500 index fund. Tomorrow, the S+P (and therefore my fund) goes up by 1%. When my order goes through, do I buy the fund at the lower price it was at when the market opens tomorrow, or the higher price it was at when the market closes tomorrow? Does it matter in any way if I place the order today while the market is still open?
 
 &#x200B;
 
 I've always been curious about this, so would appreciate anyone who could answer :) Thanks!"
-Thai_T,0,"""Best"" method for investing into Index/Mutual Funds?","Hi all,  
+2019-06-24,Thai_T,0,"""Best"" method for investing into Index/Mutual Funds?","Hi all,  
 
 
 I'm new to investing, and have read up a bit on index/mutual funds. A few people I know suggests to invest as much money as I can afford into mutual funds. Before I start dumping my money into them, I wanted to be certain on how exactly you make a profit, and the best way to go about doing so.   
@@ -988,10 +988,10 @@ I've read that having money in the market is always better, but for example: if 
 
 
 So in this scenario, time in the market isn't always better than holding off and buying when it's lower? Am I looking at this the wrong way? Thank you for any advice you can give."
-Tacticalmile,2,Mutual Fund Recommendations,"Hi everyone. First post here and a relatively new investor. Been invested in a mutual fund for years I just put the money away and forgot about it like most kids do. But now with the market doing so well I am in no real hurry to currently invest, but if the market corrects I would like to diversify by maybe looking into another mutual fund. Also important to note that I am basically restricted to mutual funds. Currently with Vanguard VTSMX. Anything you guys recommend checking out for a kid in it for the long-haul? Thanks in advance!"
-fivesick,0,Are there Trading Restrictions If My Parents Work for a Mutual Fund,"I just turned 18 and I'm eager to start trading, but my mom works for a mutual fund in San Francisco. Will that affect my ability to start trading?"
-Lip_A,1,"Now that Vanguard is no longer the lowest cost provider, what can they do to stay relevant in the mutual fund industry?","Edit: I appreciate the responses! I did not mean to insinuate they are irrelevant, just wanted to get an idea of what they should be doing to stay ahead of the competition. You guys rock!"
-AverageGuyWasTaken,1,USA - Questions regarding investing in multiple mutual funds,"I want to invest in multiple mutual funds, I believe this is best done through a discount brokerage. My questions are:
+2019-06-08,Tacticalmile,0,Mutual Fund Recommendations,"Hi everyone. First post here and a relatively new investor. Been invested in a mutual fund for years I just put the money away and forgot about it like most kids do. But now with the market doing so well I am in no real hurry to currently invest, but if the market corrects I would like to diversify by maybe looking into another mutual fund. Also important to note that I am basically restricted to mutual funds. Currently with Vanguard VTSMX. Anything you guys recommend checking out for a kid in it for the long-haul? Thanks in advance!"
+2019-06-12,fivesick,0,Are there Trading Restrictions If My Parents Work for a Mutual Fund,"I just turned 18 and I'm eager to start trading, but my mom works for a mutual fund in San Francisco. Will that affect my ability to start trading?"
+2019-04-12,Lip_A,1,"Now that Vanguard is no longer the lowest cost provider, what can they do to stay relevant in the mutual fund industry?","Edit: I appreciate the responses! I did not mean to insinuate they are irrelevant, just wanted to get an idea of what they should be doing to stay ahead of the competition. You guys rock!"
+2019-05-19,AverageGuyWasTaken,1,USA - Questions regarding investing in multiple mutual funds,"I want to invest in multiple mutual funds, I believe this is best done through a discount brokerage. My questions are:
 
 Once I find a discount brokerage how do I know which mutual funds I can invest in through them?
 
@@ -1002,11 +1002,11 @@ What are some good resources on learning more on mutual funds?
 What are some recommended/well known discount brokerages for investing in mutual funds? Context - I'm looking at a minimum investment of ~$1000 to open the account, however if thats too low I'd be willing to look at brokerages with higher minimum investments too.
 
 Thanks."
-_ELI5,0,What do you look at when evaluating a mutual fund?,Particularly interested in PCBAX.
-monkeyman1211,4,Aggressive mutual funds or ETFS,"Hi I was just wondering if someone could explain a little more in depth the differences between aggressive mutual funds and ETFs. I do understand the basics that aggressive mutual funds are premade portfolios and that you have costs for having them managed. Whereas ETFs you should make your own portfolio and do not incur those costs. I am just confused as to what the majority would do, which is more profitable in the long run, which is more risky etc.
+2019-06-07,_ELI5,0,What do you look at when evaluating a mutual fund?,Particularly interested in PCBAX.
+2019-04-08,monkeyman1211,2,Aggressive mutual funds or ETFS,"Hi I was just wondering if someone could explain a little more in depth the differences between aggressive mutual funds and ETFs. I do understand the basics that aggressive mutual funds are premade portfolios and that you have costs for having them managed. Whereas ETFs you should make your own portfolio and do not incur those costs. I am just confused as to what the majority would do, which is more profitable in the long run, which is more risky etc.
 
 Thank you and have a nice day!"
-luigimanzi,0,newbie question about mutual funds.,"Hello, so basically a friend has a degree in economics and he said he would teach me how to invest, he is not from the US so he is gonna open an account with an american brokerage and he'll teach me as he also invests with another brokerage, I opened an account with Fidelity because I am still 17 and they did not require any document to prove my age. So he sent these three different mutual funds and told me to read about them and say what I learned about them, I am very new to this so I could not make out very well what they mean, could you guys give me a brief summary on these funds?
+2019-06-01,luigimanzi,0,newbie question about mutual funds.,"Hello, so basically a friend has a degree in economics and he said he would teach me how to invest, he is not from the US so he is gonna open an account with an american brokerage and he'll teach me as he also invests with another brokerage, I opened an account with Fidelity because I am still 17 and they did not require any document to prove my age. So he sent these three different mutual funds and told me to read about them and say what I learned about them, I am very new to this so I could not make out very well what they mean, could you guys give me a brief summary on these funds?
 
 FZROX
 
@@ -1017,16 +1017,16 @@ FSPSX
 &#x200B;
 
 thanks in advance."
-4bhii,7,Life insurance vs stocks vs mutual funds,"Which one is best for long term 
+2019-01-20,4bhii,9,Life insurance vs stocks vs mutual funds,"Which one is best for long term 
 As sip ?
 
 Is life insurance important?"
-owlbearmarket,2,Mutual Fund Check In,"Fairly new to all this and excited to learn.
+2019-06-07,owlbearmarket,2,Mutual Fund Check In,"Fairly new to all this and excited to learn.
 
 Is there a mutual fund out there focusing on waste management that's worth investing in, as opposed to the individual few waste management stocks we keep hearing about?
 
 While I'm asking, does anyone have mutual funds they're currently in love with?  What drew you to them?"
-Gazed1,1,REITs or Mutual Funds,"Hi all,
+2019-04-01,Gazed1,1,REITs or Mutual Funds,"Hi all,
 
 I'm yet to start investing, but I have concluded that I should start with REITs or Mutual Funds. Maybe both.
 
@@ -1041,20 +1041,20 @@ The reason I'm thinking of mutual funds is because it gives me a lot of stress t
 3. I'm assuming that there's specifc mutual funds,just like REITs. For example, a mutual fund that only holds tech shares, or industrial shares. Correct?
 
 I have under $1000 to spend on starting my portfolio. I'm aware that mutual funds gives me more diversification, and that REITs are obligated to give 90% back to its shareholders. With my limited budget to start with, I will say that individual stocks won't be helpful for me at the moment. My mind-set is long-term, but in the near future I'd like to make money in the short-term as well, by maybe investing in growth stocks. "
-nmoore6,0,Does anyone here buy mutual funds or ETFs for short term investing?,"Looking for advice on these two investment options for short term gains? Does anyone use these for short term (<3months) investing, or do you typically stick to regular stocks?"
-daswagarv,5,"What’s the difference between an ETF, a mutual fund, and an index fund?",I’m a senior in high school rn and I’m starting to get into investing but I was just confused on the terms.  Can you treat me like a 5 year old and explain these in easy terms? Thanks!!
-Putrid_Foreskin,0,When to sell a mutual fund?,"Hey guys, need some input,
+2019-05-05,nmoore6,0,Does anyone here buy mutual funds or ETFs for short term investing?,"Looking for advice on these two investment options for short term gains? Does anyone use these for short term (<3months) investing, or do you typically stick to regular stocks?"
+2019-04-13,daswagarv,6,"What’s the difference between an ETF, a mutual fund, and an index fund?",I’m a senior in high school rn and I’m starting to get into investing but I was just confused on the terms.  Can you treat me like a 5 year old and explain these in easy terms? Thanks!!
+2019-04-22,Putrid_Foreskin,0,When to sell a mutual fund?,"Hey guys, need some input,
 
 &#x200B;
 
 I got some money on FBGRX. Now it's almost as high as it's ever been (having topped out at like 105, it's now 100.89).
 
 Im wondering if it's time to sell? What would Jesus do in this case? Is that ""105 historical max"" any indication that it's probably no going much higher?"
-Grundy53,0,Mutual fund transaction fees.,I'm a fairly new investor and up until this point I've pretty much just invested in ETFs in my Roth ira. I was looking to start putting money into VTSAX but looking at TD Ameritrade's mutual fund fees it's a 49.99 transaction fee. I know it's a dumb question but is that just for the initial investment or will that be applied every time I put money into it? On that note ETFs are only a 6.95 trade fee  so would it be better to just put my money into VTI? Thanks for any help or advice you can give me.
-muppetspuppet,0,Indexed mutual fund vs equivalent ETF tax efficiency question.,"I posted earlier but think maybe the way I asked wasn't clear. Certain financial firms, Vanguard for example, offer indexed (not actively managed, verified) mutual funds, and often an equivalent ETF. For example: VFIAX and VOO, both tracking S&P500, where the post tax returns are nearly identical. Sometimes the index mutual fund is slightly better, sometimes the ETF, depending on time period. This seems to buck the rule that ETFs are more tax efficient than index funds. Is that right or am I overlooking something?"
-SuperSimpleSam,7,Is there any website that I can put in my ETFs and mutual funds to see how much of each stock I own indirectly?,
-rasstar,0,Are mutual funds fees the same regardless of the platform I use to buy?,I am using etrade but I am thinking of moving to Ally Trading. I usually just purchase mutual funds but I am not sure if the expense ratio is the same regardless of where I purchase them.
-phvrside,0,Transferring Mutual Funds to Gain Higher Dividends,"Is it a viable strategy to transfer (Sell to Buy) a Mutual Fund with a high Dividend to capture the dividend payout then transferring that position back to another growth type of Mutual Fund
+2019-04-17,Grundy53,0,Mutual fund transaction fees.,I'm a fairly new investor and up until this point I've pretty much just invested in ETFs in my Roth ira. I was looking to start putting money into VTSAX but looking at TD Ameritrade's mutual fund fees it's a 49.99 transaction fee. I know it's a dumb question but is that just for the initial investment or will that be applied every time I put money into it? On that note ETFs are only a 6.95 trade fee  so would it be better to just put my money into VTI? Thanks for any help or advice you can give me.
+2019-03-29,muppetspuppet,0,Indexed mutual fund vs equivalent ETF tax efficiency question.,"I posted earlier but think maybe the way I asked wasn't clear. Certain financial firms, Vanguard for example, offer indexed (not actively managed, verified) mutual funds, and often an equivalent ETF. For example: VFIAX and VOO, both tracking S&P500, where the post tax returns are nearly identical. Sometimes the index mutual fund is slightly better, sometimes the ETF, depending on time period. This seems to buck the rule that ETFs are more tax efficient than index funds. Is that right or am I overlooking something?"
+2019-04-25,SuperSimpleSam,6,Is there any website that I can put in my ETFs and mutual funds to see how much of each stock I own indirectly?,
+2019-05-20,rasstar,0,Are mutual funds fees the same regardless of the platform I use to buy?,I am using etrade but I am thinking of moving to Ally Trading. I usually just purchase mutual funds but I am not sure if the expense ratio is the same regardless of where I purchase them.
+2019-02-13,phvrside,0,Transferring Mutual Funds to Gain Higher Dividends,"Is it a viable strategy to transfer (Sell to Buy) a Mutual Fund with a high Dividend to capture the dividend payout then transferring that position back to another growth type of Mutual Fund
 
 Scenario: Transferring my VTSAX contribution to VGSLX right before the ex-dividend date, to get that 4.24% dividend rather than the 1.87% dividend of VTSAX. Then transferring back my my Mutual Fund to VTSAX once I receive my dividend payment.
 
@@ -1069,12 +1069,12 @@ So I would assume the only risk would be that VTSAX could considerably jump duri
 &#x200B;
 
 EDIT: My scenario assumption is within a ROTH IRA, so there would be no tax implications."
-dlsso,5,Vanguard account just for the mutual funds?,"What do you think about opening a Vanguard account just for the free mutual fund purchases?
+2019-01-12,dlsso,5,Vanguard account just for the mutual funds?,"What do you think about opening a Vanguard account just for the free mutual fund purchases?
 
 If you want to use VMMXX as a place to park cash, and/or make regular contributions to a low cost index fund as part of your long term strategy it seems worth it. Many brokers charge $20+ for mutual funds, so if you're moving money around and contributing regularly that could easily be over $200/year in broker fees.
 
 Wondering if anyone else here does this and if there are any disadvantages other than two sets of tax documents to go through."
-deslaur,1,ETFs vs. Mutual Fund – Total Fees,"Hi Everyone,
+2019-05-12,deslaur,1,ETFs vs. Mutual Fund – Total Fees,"Hi Everyone,
 
 I've been trying to figure this out for a while but can't find too much regarding my question. We all know ETFs are more tax efficient than mutual funds, but is there a calculator to calculate the total costs of an ETF vs. a Mutual Fund? 
 
@@ -1085,9 +1085,9 @@ My math so far is that in a $10,000 investment, ITOT will have a fee of $3, but 
 Is this the proper way to calculate this? Am I missing something? If it matters this is for a non-retirement account investment. 
 
 Thanks in advance."
-dirtybird-inc,2,Anyone know of any good global macro or FIRV open ended mutual funds?,Slim pickins out there....
-muppetspuppet,2,Tax liability of Vanguard indexed mutual funds and counterpart ETFs seem the same. Am I overlooking something?,"I understand generally that ETFs are more tax efficient than mutual funds, but when looking at Vanguard indexed mutual funds as compared to their equivalent ETF on Morningstar, the tax liabilities show as identical. Just want to make sure I'm not missing something that would make the ETF the better purchase decision tax wise?"
-GainZilla5225,5,General question about mutual fund fees and taxes,"I always hear about high fees on mutual funds. Can anyone provide some details on where the total fee structure for any mutual fund is found? Also explain how/when fees are collected (daily, monthly, yearly?)
+2019-02-22,dirtybird-inc,2,Anyone know of any good global macro or FIRV open ended mutual funds?,Slim pickins out there....
+2019-03-29,muppetspuppet,2,Tax liability of Vanguard indexed mutual funds and counterpart ETFs seem the same. Am I overlooking something?,"I understand generally that ETFs are more tax efficient than mutual funds, but when looking at Vanguard indexed mutual funds as compared to their equivalent ETF on Morningstar, the tax liabilities show as identical. Just want to make sure I'm not missing something that would make the ETF the better purchase decision tax wise?"
+2019-01-18,GainZilla5225,6,General question about mutual fund fees and taxes,"I always hear about high fees on mutual funds. Can anyone provide some details on where the total fee structure for any mutual fund is found? Also explain how/when fees are collected (daily, monthly, yearly?)
 
 I'm aware of no load, front end load, back end load funds but I'm not familiar enough to understand fully which is the most useful? Is there some good advice where these different types are useful for certain situations?
 
@@ -1098,19 +1098,19 @@ Also, what about tax situations? There are turn over percentages so basically th
 My ideal investing situation would be to buy now and hold long term. Any money I invest I'll have no reason to take it out. 
 
 Sorry for the confusing post, perhaps I should focus on one item at a time. "
-ksp07,8,"Index fund, mutual fund, or other?","I’m 18 and I want to start investing, but I don’t know exactly where to start. My plan is to start investing my money and continuously invest in the same fund. I was told a mutual fund might be the best idea since it could cover a diverse section of the market. This way, if one sector doesn’t do so well, there’s the other sectors make up for it. Then I discovered index funds. So what type of fund should I invest in?"
-TheProfessorOfHorror,10,Who is your favorite mutual fund company? Why?,
-lukesterboi1,7,Calculating the cost of mutual fund expenses over time,"Hello all,
+2018-12-21,ksp07,8,"Index fund, mutual fund, or other?","I’m 18 and I want to start investing, but I don’t know exactly where to start. My plan is to start investing my money and continuously invest in the same fund. I was told a mutual fund might be the best idea since it could cover a diverse section of the market. This way, if one sector doesn’t do so well, there’s the other sectors make up for it. Then I discovered index funds. So what type of fund should I invest in?"
+2018-12-03,TheProfessorOfHorror,8,Who is your favorite mutual fund company? Why?,
+2019-01-08,lukesterboi1,5,Calculating the cost of mutual fund expenses over time,"Hello all,
 
 I am seeking the answer to a question regarding mutual fund expenses, and I can't seem to find an answer online despite how simple it is. Say I invest X amount of money in a mutual fund and it grows Y amount of dollars over Z years assuming addition of D dividends (annually or monthly, I don't care, but I think those would give different formulas). I want to know if there is a formula (i.e. exponential growth formula) for calculating the amount of Y dollars I will gain over Z years assuming DRIP is used, but with expenses of the mutual fund deducted. I am interested in solely this value. Does anyone know where I might find this, or does anyone know this? I spent hours googling for such a formula and found none."
-14MTH30n3,5,"I hear a lot of conversations about Mutual Fund expenses, and how they eat up your future earnings. A hypothetical fund has 0.068% expense ratio. On $100K investment that adds up to $68 per year, which is not terrible. Am I missing something? Are there additional hidden fees?",
-Tenacious_Dad,5,What 5 fidelity mutual funds should i get? Im looking for long return good returns in stocks. Are the Fidelity Select funds good?,
-FredGhost,0,Random mutual fund question... do mutual funds have to hold a minimum required number of stocks? Someone mentioned to me that there is a federally required minimum so I was curious if this is correct.,
-foolproofphilosophy,70,Why no love for mutual funds?,"I know that there are a ton of high cost/low performance funds out there but there are also many funds that beat their benchmarks for reasonable fees. Fidelity’s Contrafund is my single largest holding, representing 45% of my brokerage account. I’ve owned it for over a decade and it consistently beats the S&P 500. It recently raised its fee from 0.68% to 0.74%. The returns I’ve earned more than justify the fee. For what it’s worth I also own ETF’s to gain more exposure to specific sectors. So, why no love for mutual funds?"
-lowwwwww,0,Can contributing an exact dollar amount in a Roth IRA only be done with mutual funds instead of ETFs?,"With an ETF I can't contribute an exact amount such as 5500, but if I have a few dollars left in cash in my Roth IRA does that count as a dollar amount contributed? 
+2018-12-21,14MTH30n3,5,"I hear a lot of conversations about Mutual Fund expenses, and how they eat up your future earnings. A hypothetical fund has 0.068% expense ratio. On $100K investment that adds up to $68 per year, which is not terrible. Am I missing something? Are there additional hidden fees?",
+2018-12-16,Tenacious_Dad,4,What 5 fidelity mutual funds should i get? Im looking for long return good returns in stocks. Are the Fidelity Select funds good?,
+2019-05-29,FredGhost,0,Random mutual fund question... do mutual funds have to hold a minimum required number of stocks? Someone mentioned to me that there is a federally required minimum so I was curious if this is correct.,
+2018-06-17,foolproofphilosophy,67,Why no love for mutual funds?,"I know that there are a ton of high cost/low performance funds out there but there are also many funds that beat their benchmarks for reasonable fees. Fidelity’s Contrafund is my single largest holding, representing 45% of my brokerage account. I’ve owned it for over a decade and it consistently beats the S&P 500. It recently raised its fee from 0.68% to 0.74%. The returns I’ve earned more than justify the fee. For what it’s worth I also own ETF’s to gain more exposure to specific sectors. So, why no love for mutual funds?"
+2019-04-11,lowwwwww,0,Can contributing an exact dollar amount in a Roth IRA only be done with mutual funds instead of ETFs?,"With an ETF I can't contribute an exact amount such as 5500, but if I have a few dollars left in cash in my Roth IRA does that count as a dollar amount contributed? 
 
 I would rather use an ETF but I already did my taxes and planned on contributing a specific amount."
-anikom15,0,The Mutual Fund Myth,"It all started with a statistic: 95% of mutual fund managers *for U.S. equities* over a *15-year period* did not beat the market.
+2019-01-24,anikom15,0,The Mutual Fund Myth,"It all started with a statistic: 95% of mutual fund managers *for U.S. equities* over a *15-year period* did not beat the market.
 
 This somehow got extrapolated to ‘mutual funds never beat their index’ to ‘fund managers never beat the market’ to ‘no investor can ever beat the market’. None of those statements are true.
 
@@ -1137,9 +1137,9 @@ We really don’t know what private fund managers are doing, but they have much 
 Edit 1: Edited point 3 to more clearly define fund strategies.
 
 Edit 2: Made point 4 less ambiguous by specifying that U.S. equity funds that beat their index are actively managed. There is actually a slim possibility for an index fund to beat its index theoretically, however."
-14MTH30n3,17,"What is a good site where I can enter a Mutual Fund and find similar funds or ETFs based on allocation, risk, asset type, etc?",My goals is to roll over 401(k) with expensive fund choices into a traditional IRA. 
-troymclure79,2,Mutual funds and compounding interest?,"Hello, New investor here. For some reason I am having trouble understanding this concept and was hoping someone could help. When I read about compounding interest the example always talks about how if you invest at X age and receive an average annual return of X then in X years you will have X with compounding interest. This makes perfect sense to me if I were investing in a savings account but what about if I am investing in mutual funds? If I am investing the same amount per year in the same funds in an IRA without selling how do you receive an annual return that can receive the benefit of compounding interest? Thanks!"
-Sovereign_Mind,2,"Im torn, stocks vs etf’s vs mutual funds","So, im invest $200 every two weeks.
+2018-12-25,14MTH30n3,17,"What is a good site where I can enter a Mutual Fund and find similar funds or ETFs based on allocation, risk, asset type, etc?",My goals is to roll over 401(k) with expensive fund choices into a traditional IRA. 
+2019-02-04,troymclure79,2,Mutual funds and compounding interest?,"Hello, New investor here. For some reason I am having trouble understanding this concept and was hoping someone could help. When I read about compounding interest the example always talks about how if you invest at X age and receive an average annual return of X then in X years you will have X with compounding interest. This makes perfect sense to me if I were investing in a savings account but what about if I am investing in mutual funds? If I am investing the same amount per year in the same funds in an IRA without selling how do you receive an annual return that can receive the benefit of compounding interest? Thanks!"
+2018-12-16,Sovereign_Mind,5,"Im torn, stocks vs etf’s vs mutual funds","So, im invest $200 every two weeks.
 
 I have a portfolio of $300.
 
@@ -1148,13 +1148,13 @@ So an etf is a mutual fund with like a small starting point right? Would my best
 Ideally I would like to swing trade. I feel like I should use $100 for mutual funds/etfs and $100 for stocks.
 
 Please help with decision on etfs or mutual funds. They earn dividends right?"
-Adviceforthewilling,10,Why do some mutual funds not have year end capital gains distributions?,"I am slowly understanding the concept of capital gains distributions and how mutual funds work in that regard. I was looking at this PDF from Vanguard:   
+2019-03-05,Adviceforthewilling,9,Why do some mutual funds not have year end capital gains distributions?,"I am slowly understanding the concept of capital gains distributions and how mutual funds work in that regard. I was looking at this PDF from Vanguard:   
 [http://vanguard.com/pdf/RET891511\_122018\_final.pdf](http://vanguard.com/pdf/RET891511_122018_final.pdf)
 
 I am interested in VTSAX (as an example) and it has no year end capital gains distributions. How do they go about avoiding that? 
 
 It looks like the only tax I would have to really worry about would be whenever I sell my holdings then right? "
-akkruse,4,Help With Mutual Fund Fees,"TL;DR: what exactly am I holding in my account and what are the fees?
+2019-01-04,akkruse,6,Help With Mutual Fund Fees,"TL;DR: what exactly am I holding in my account and what are the fees?
 
 I had an Edward Jones account transferred in my name several years ago. I didn't know much about the market at the time, but I knew if I left the money in the account, it should grow (and it has). I've never deposited or withdrew from the account, I've just let what was already there continue to build. Today, I know more about stocks and ETFs, but not as much about mutual funds, and I was hoping you guys could help fill the gaps. FWIW I've asked the advisor some of these questions in an email, but she wanted to schedule a call so we could setup a WebEx meeting and look at charts (I didn't feel like all of that was necessary, I just wanted some quick answers).
 
@@ -1174,8 +1174,8 @@ What other fees might there be beyond this? I've read about annual account maint
 If I'm understanding all of this correctly, then it sounds like I'm not getting charged any outrageous fees by letting this money sit in this account, and there's no real pressing reason I would want to move it out of Edward Jones to cut fees. I probably wouldn't want to add to this account because of the 5.75% (which might be reason to consider moving to a different account), but I'm not doing any harm to what's already there. Does this sound about right? Or are there other fees I might be missing? 
 
 I realize these fees also get me the advantage of having an advisor, but honestly at this point I'm turning to Reddit for where the advisor has failed me. Thanks in advance for any help!"
-David949,2,Dividend stocks vs Vanguard dividend mutual funds?,"I'm looking at 3 vanguard dividend funds VDADX, VDAIX, VDIGX or their admiral equivalents.   It looks like their forward yields are in the low 2% range.   I have 10 dividend stocks in my portfolio already that pay between 5 to 10% in forward dividend yield.   Even the prime money market current pays 2.47%   What am I missing, why does these 3 vanguard funds pay so little?  Am I really able to beat these mutual funds on my own with my own stock picks?   I'm looking to balance my portfolio between individual stocks and some mutual funds."
-MasterCookSwag,525,"Experience a large unexplained drop in your mutual fund? Don't worry, it's normal. Here's the explanation.","Every year in December we start to get 5-10 posts a day asking this question. Rather than have a ton of clutter in the sub I'm going to be stickying this post until the end of the month.
+2019-02-12,David949,2,Dividend stocks vs Vanguard dividend mutual funds?,"I'm looking at 3 vanguard dividend funds VDADX, VDAIX, VDIGX or their admiral equivalents.   It looks like their forward yields are in the low 2% range.   I have 10 dividend stocks in my portfolio already that pay between 5 to 10% in forward dividend yield.   Even the prime money market current pays 2.47%   What am I missing, why does these 3 vanguard funds pay so little?  Am I really able to beat these mutual funds on my own with my own stock picks?   I'm looking to balance my portfolio between individual stocks and some mutual funds."
+2017-12-15,MasterCookSwag,524,"Experience a large unexplained drop in your mutual fund? Don't worry, it's normal. Here's the explanation.","Every year in December we start to get 5-10 posts a day asking this question. Rather than have a ton of clutter in the sub I'm going to be stickying this post until the end of the month.
 
 A mutual fund is essentially just a basket of individual stocks/bonds/whatever. Within that basket the fund managers are constantly selling/buying and receiving dividends. The IRS has special rules for mutual funds which allow them to not pay taxes on the capital gains/dividends generated provided they pass through almost all of the proceeds from said activities to the shareholder within the calendar year. So dividends are often paid on some set schedule but capital gains are generally retained within the fund till the end of the year(because losses can reduce gains but can't be distributed to a shareholder). 
 
@@ -1194,25 +1194,25 @@ https://mutualfundobserver.com/discuss/discussion/35512/2017-capital-gains-estim
 
 
 Ctrl + f your fund family. Chances are it's on one of these two pages. If not, google search ""______ funds capital gains distributions 2016"""
-letsgobankrupt,0,Beginner question - which type of capital gains tax on short term mutual fund sale?,"Hey all, thanks in advance for putting up with my newbie question: let's say I buy $1000 of VTSMX shares today, they go up in price, and in a month I decide to sell everything back and I realize capital gains. How am I taxed on these gains? I'm assuming it's short term capital gains, because I held the asset under 1 year.
+2019-05-20,letsgobankrupt,0,Beginner question - which type of capital gains tax on short term mutual fund sale?,"Hey all, thanks in advance for putting up with my newbie question: let's say I buy $1000 of VTSMX shares today, they go up in price, and in a month I decide to sell everything back and I realize capital gains. How am I taxed on these gains? I'm assuming it's short term capital gains, because I held the asset under 1 year.
 
 The reason I'm confused is because perhaps Vanguard was holding onto the underlying equities for 10 years, so from their perspective any gains they realize are long term, but as someone buying shares of their investment vehicle, do I get to treat gains as long term, or does my timer start at 0 when I buy those assets regardless?
 
 (Side-note, it was interesting to find out that fund distributions are always treated as long term: [https://www.irs.gov/faqs/capital-gains-losses-and-sale-of-home/mutual-funds-costs-distributions-etc/mutual-funds-costs-distributions-etc-4](https://www.irs.gov/faqs/capital-gains-losses-and-sale-of-home/mutual-funds-costs-distributions-etc/mutual-funds-costs-distributions-etc-4))
 
 Thank you!"
-anonymous_75,0,What’s the difference between an index fund and a mutual fund?,
-I_eat_insects,99,"Discussion of BRK.B: I've read that the underlying holdings of BRK.B are highly diversified and therefore BRK.B can almost be likened to a mutual fund. Given its great average annual returns, why not invest the majority of a portfolio in them as opposed to mutual funds or ETFs?","I know past performance doesn't indicate future performance, but this seems like a good idea. My main concerns/questions are whether the tax advantages I get from my index fund investments in my Roth IRA and 401k would offset the additional gains I might get from holding BRK.B in a brokerage account (after also accounting for the long term capital gain taxes I would incur).
+2019-03-24,anonymous_75,0,What’s the difference between an index fund and a mutual fund?,
+2018-01-07,I_eat_insects,98,"Discussion of BRK.B: I've read that the underlying holdings of BRK.B are highly diversified and therefore BRK.B can almost be likened to a mutual fund. Given its great average annual returns, why not invest the majority of a portfolio in them as opposed to mutual funds or ETFs?","I know past performance doesn't indicate future performance, but this seems like a good idea. My main concerns/questions are whether the tax advantages I get from my index fund investments in my Roth IRA and 401k would offset the additional gains I might get from holding BRK.B in a brokerage account (after also accounting for the long term capital gain taxes I would incur).
 
 I'm fairly new to all this but trying to learn. Sorry if they're is something I'm overlooking."
-teletwang99,1,Getting myself into a collared position with mutual funds,"I'm not sure if this is doable and if it is, what the most tax efficient way would be.
+2019-03-22,teletwang99,1,Getting myself into a collared position with mutual funds,"I'm not sure if this is doable and if it is, what the most tax efficient way would be.
 
 I currently have a brokerage account invested mostly in VTSAX. I had set that money aside for some goals and now I need to hedge a bit as my time horizon is approaching.
 
 Should I just sell off VTSAX, buy VTI, then buy the put/sell the call if I want to get into a collared position? Or is it possible to hedge directly with VTSAX? 
 
 I originally wanted a mutual fund so that it tracks the assets more accurately. Given that VTSAX doesn't really pay out gains, would it have made more sense investing in VTI so that I could write options in the future?"
-akmalhot,1,Mutual fund fees,"So a majority of my cash is in low cost ETF's, but I was looking at a few mutual funds to put some in and had a question about their fees.
+2019-01-31,akmalhot,1,Mutual fund fees,"So a majority of my cash is in low cost ETF's, but I was looking at a few mutual funds to put some in and had a question about their fees.
 
 Specifically Looking at CPOAX - morgan stanley multi cap
 
@@ -1244,16 +1244,16 @@ CPOAX	Morg Stan MultiCp Gr;A	|||| SPY ETF
 14.38% 5 year |||| 10.51 %
 	
 20.83% 10 year |||| 14.78 %"
-Selvey808,4,How do I browse mutual funds?,"I've been watching a lot of Dave Ramsey recently and wanted to start investing in my Roth IRA.  I have a Roth 401k with 5% match from work that I'm putting money into and wanted to start putting money into my Roth IRA as well.  I put in my first $100 but I don't know what to do with it.  I know Ramsey suggests the 4 types, but where can I browse for those types of mutual funds and what am I looking for to know that it's something good to invest in.  He always talks about making sure its doing as good or better than the S&P 500 and as long as the line is above it then it's all good, but I don't know what I'm looking for exactly.  He says he can find one in 30 seconds but I don't want to end up putting my money into a mutual fund that's not going to be profitable."
-olmek,4,Dividends on mutual funds,"Is there any science to timing when you buy a sell a mutual fund in regards to the dividend payout? For example, if my fund is paying dividends quarterly, and I get out before the end of that quarter - will I still receive a pro-rated dividend after that fact?"
-DistanceMachine,3,"I’ve joined the group and started depositing a certain about to my brokerage account to buy mutual funds every month. With all of this talk about bubbles popping, what’s the strategy if it actually happens?",Let’s say things really do start dropping heavily. Do you change your asset mix? Do you stay strong and keep doing what you were doing? 
-RandomSG,2,What are your favourite measures/screens for ETF/mutual fund risk?,"Personally, i use Sharpe and Volatility ratios more..
+2019-01-18,Selvey808,3,How do I browse mutual funds?,"I've been watching a lot of Dave Ramsey recently and wanted to start investing in my Roth IRA.  I have a Roth 401k with 5% match from work that I'm putting money into and wanted to start putting money into my Roth IRA as well.  I put in my first $100 but I don't know what to do with it.  I know Ramsey suggests the 4 types, but where can I browse for those types of mutual funds and what am I looking for to know that it's something good to invest in.  He always talks about making sure its doing as good or better than the S&P 500 and as long as the line is above it then it's all good, but I don't know what I'm looking for exactly.  He says he can find one in 30 seconds but I don't want to end up putting my money into a mutual fund that's not going to be profitable."
+2019-01-20,olmek,3,Dividends on mutual funds,"Is there any science to timing when you buy a sell a mutual fund in regards to the dividend payout? For example, if my fund is paying dividends quarterly, and I get out before the end of that quarter - will I still receive a pro-rated dividend after that fact?"
+2019-04-04,DistanceMachine,0,"I’ve joined the group and started depositing a certain about to my brokerage account to buy mutual funds every month. With all of this talk about bubbles popping, what’s the strategy if it actually happens?",Let’s say things really do start dropping heavily. Do you change your asset mix? Do you stay strong and keep doing what you were doing? 
+2019-03-14,RandomSG,2,What are your favourite measures/screens for ETF/mutual fund risk?,"Personally, i use Sharpe and Volatility ratios more..
 
 What do you guys use? Any users of Alpha/Beta?"
-baydude510,2,"What percent of your life savings (liquid assets) do you have in (stock and mutual funds) vs (cash, CD, bonds, etc)","Ignoring real estate... I think I'm 35% in stocks right now, and the rest in CD, savings accounts. Do you think that's a bit high or low right now?
+2018-09-05,baydude510,4,"What percent of your life savings (liquid assets) do you have in (stock and mutual funds) vs (cash, CD, bonds, etc)","Ignoring real estate... I think I'm 35% in stocks right now, and the rest in CD, savings accounts. Do you think that's a bit high or low right now?
 
 Forgot to add, approximately how old are you?"
-binghorse,5,"Mutual fund closed recently, what does this mean?","I'm invested in PSGAX, the Virtus small-cap growth fund. 
+2019-04-03,binghorse,5,"Mutual fund closed recently, what does this mean?","I'm invested in PSGAX, the Virtus small-cap growth fund. 
 
 The fund closed to new investors in September last year. It's still performing well (from what I can tell so far, but I'm a rank amateur). Why do funds like this close? 
 
@@ -1262,20 +1262,20 @@ I've read this online, which worried me a little.
 >What effect does closure have on the fund's performance? Well, it's hard to say, but investors should be aware that some closed funds tend to have a less attractive performance after closure. ""Morningstar's Guide to Mutual Funds,"" published in 2003, cites a study in which Morningstar tracks the performance of a group of open-end funds that closed their doors to new investors. The funds in the study were of the top 20% of the funds within their categories prior to closing. However, three years after their closure, 75% of the funds dropped to an average performance.
 
 "
-D0oDl3,0,How successful can an individual investor be on wallstreet considering they just got of collage and is looking to create their own mutual fund.,
-loud_mouth_soup_,0,ELI5: Can someone please explain to me how I have a taxable capital gain on a standard mutual fund that lost a pretty decent amount of money for 2018? This also happened during the last recession and while I understand a lot about investing I can’t seem to wrap my head around this concept.,Edit: thanks for the explanations. I had a feeling that realized gains was the case but your explanations that the losses are still on paper and not realized are what did it for me. Don’t know why I couldn’t connect that last piece. Thanks again. 
-rodre1,2,"Does Vanguard, Blackrock, or Charles Schwab have a main, premier mutual fund managed by the company similar to the Contrafund for Fidelity?","The Contrafund is the main fund that makes money for Fidelity and their premier fund among all the ones they manage. I wanted to know if Vanguard, Blackrock, or Charles Schwab had a main fund similar to the Contrafund that they manage. Sorry if this is a stupid question."
-D_Y_N_A_S_T_Y,6,Mutual fund closings/re-openings,Is there any way to receive notice of mutual fund closings or re-openings?
-puffferfish,13,Which mutual fund investment companies do you most prefer?,"I own mutual funds, but am invested only with one company and do not know much about the others. Which companies do you invest with and trust the most? Any particular funds that you trust for long term growth?"
-maest,0,How difficult is it to set up a mutual fund in the US as a non-US citizen?,Does anyone have any experience setting up a mutual fund in the US? Is it possible to do that as a non-US citizen?
-Hophop1228,0,Any long time investors here that made it big only investing in index/mutual funds??,"Hello /r investing,
+2019-01-27,D0oDl3,0,How successful can an individual investor be on wallstreet considering they just got of collage and is looking to create their own mutual fund.,
+2019-01-28,loud_mouth_soup_,0,ELI5: Can someone please explain to me how I have a taxable capital gain on a standard mutual fund that lost a pretty decent amount of money for 2018? This also happened during the last recession and while I understand a lot about investing I can’t seem to wrap my head around this concept.,Edit: thanks for the explanations. I had a feeling that realized gains was the case but your explanations that the losses are still on paper and not realized are what did it for me. Don’t know why I couldn’t connect that last piece. Thanks again. 
+2019-01-31,rodre1,2,"Does Vanguard, Blackrock, or Charles Schwab have a main, premier mutual fund managed by the company similar to the Contrafund for Fidelity?","The Contrafund is the main fund that makes money for Fidelity and their premier fund among all the ones they manage. I wanted to know if Vanguard, Blackrock, or Charles Schwab had a main fund similar to the Contrafund that they manage. Sorry if this is a stupid question."
+2019-04-08,D_Y_N_A_S_T_Y,4,Mutual fund closings/re-openings,Is there any way to receive notice of mutual fund closings or re-openings?
+2018-08-29,puffferfish,14,Which mutual fund investment companies do you most prefer?,"I own mutual funds, but am invested only with one company and do not know much about the others. Which companies do you invest with and trust the most? Any particular funds that you trust for long term growth?"
+2019-03-12,maest,0,How difficult is it to set up a mutual fund in the US as a non-US citizen?,Does anyone have any experience setting up a mutual fund in the US? Is it possible to do that as a non-US citizen?
+2018-12-04,Hophop1228,0,Any long time investors here that made it big only investing in index/mutual funds??,"Hello /r investing,
 
 I’m a young (26M) E.Engineer who’s dreaming of retiring early but want a convincing route to follow.  Now I’ve read all kinds of recommendations and advice, but the plan doesn’t sound convincing when it’s coming from a bunch of young people who’s never experienced a real market disaster.  Is there anyone here who’s been in the game for a long, long time (20+ years of investing) that can share their success story by following a plan and investing only in index/mutual funds?
 
 I would gladly appreciate it :)"
-keevajuice,13,Active etf/mutual fund recommendations?,I am looking for a stable actively traded fund for a retired parent and then a super aggressive one for me
-datbakerboi,0,Index vs classical mutual funds,Why would you ever choose a mutual fund over an index fund? Considering that mutual funds have fees and the majority do not beat the market.
-Adviceforthewilling,6,"There are some great stock mutual funds similar or better than VTSAX, what's wrong with them?","I've learned so much from this group and I'm finally ready to put money into my IRA account for the purpose of retirement. Everyone always talks about VTSAX, but there are a couple of mutual funds that seem to be a better option and wanted your opinion on them and if I should bother with them.
+2018-09-11,keevajuice,13,Active etf/mutual fund recommendations?,I am looking for a stable actively traded fund for a retired parent and then a super aggressive one for me
+2018-12-10,datbakerboi,0,Index vs classical mutual funds,Why would you ever choose a mutual fund over an index fund? Considering that mutual funds have fees and the majority do not beat the market.
+2019-01-17,Adviceforthewilling,8,"There are some great stock mutual funds similar or better than VTSAX, what's wrong with them?","I've learned so much from this group and I'm finally ready to put money into my IRA account for the purpose of retirement. Everyone always talks about VTSAX, but there are a couple of mutual funds that seem to be a better option and wanted your opinion on them and if I should bother with them.
 
 &#x200B;
 
@@ -1294,11 +1294,11 @@ Also, I am just not sure if I should diversify with international stocks and bon
 Thank you for your time, I will be following closely.
 
 &#x200B;"
-StupidElephants,1,A beginner investor feeling nervous after today. Do mutual funds recover?,"I really hope this is a “There are no stupid questions” kind of subreddit. 
+2018-10-11,StupidElephants,0,A beginner investor feeling nervous after today. Do mutual funds recover?,"I really hope this is a “There are no stupid questions” kind of subreddit. 
 
 I recently got into investing. I currently hold four large growth mutual funds. After today I’m feeling a little shaken. 
 
 So my question is do mutual funds tend to recover after things stop heading south? 
 
 Please be gentle. I am very new to investing. "
-theThirdShake,4,Question on mutual funds without dividends (TRBCX),"Im looking at TRBCX in my companies 401k options and I see that it doesn’t have a yield. This seems weird to me as it’s made up of stocks, some of which pay dividends. Can anyone explain why the fund doesn’t pay dividends? The only thing I can imagine is it automatically reinvests and doesn’t give investors that choice. But then wouldn’t that artificially inflate its returns"
+2019-01-11,theThirdShake,4,Question on mutual funds without dividends (TRBCX),"Im looking at TRBCX in my companies 401k options and I see that it doesn’t have a yield. This seems weird to me as it’s made up of stocks, some of which pay dividends. Can anyone explain why the fund doesn’t pay dividends? The only thing I can imagine is it automatically reinvests and doesn’t give investors that choice. But then wouldn’t that artificially inflate its returns"
