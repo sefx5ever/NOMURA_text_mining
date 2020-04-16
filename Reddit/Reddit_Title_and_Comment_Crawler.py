@@ -1,5 +1,5 @@
 # import praw # 由於筆數限制最多1千筆
-from psaw import PushshiftAPI
+# from psaw import PushshiftAPI
 import pandas as pd
 import datetime as dt
 import time
@@ -48,33 +48,4 @@ df = pd.DataFrame(data_collection,columns = reddit_save_column)
 
 # Export dataframe to csv
 df.to_csv('reddit_fund_with_comments_' + CURRENT_DATE + '.csv')
-
-
-
-# Start scraping with condition
-# res_data_title = list(api.search_submissions(after = start_epoch,subreddit = KEY_WORD, \
-#                                         filter = ['author', 'title', 'subreddit' ,'score', 'selftext'],limit = LIMITATION))
-
-# res_data_comment = list(api.search_comments(after = start_epoch,subreddit = KEY_WORD, \
-#                                         filter = ['author', 'title', 'subreddit' ,'score', 'selftext'],limit = LIMITATION))
-
-
-#FIX
-# subreddit = reddit.subreddit('{}'.format(KEY_WORD))
-# raw_data = subreddit.hot(limit = LIMITATION)
-
-
-# for submission in raw_data:
-#     comments = submission.comments.list()
-#     for comment in comments:
-#         print(20 * '-')
-#         print(comment.body)
-#         print(20 * '-')
-#         if len(comment.replies) > 0:
-#             for reply in comment.replies:
-#                 print(20 * '=')
-#                 print(reply.body)
-#                 print(20 * '=')
-#     # if submission.stickied:
-#     #     print(submission.author,submission.score,submission.title,submission.selftext)
 
