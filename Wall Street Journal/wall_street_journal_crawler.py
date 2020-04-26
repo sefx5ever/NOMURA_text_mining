@@ -1,6 +1,5 @@
 import requests
 import pandas as pd
-# import datetime as dt
 from time import sleep
 from bs4 import BeautifulSoup as bs
 
@@ -21,9 +20,16 @@ class wall_street_crawler:
             'user-agent' : 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36'
         }
         self.url_day = 'https://www.wsj.com/news/archive/{}' # URL for 1 day data
-        self.url_day_above = '' # URL for more than 1 days data
+        self.url_day_above = 'https://www.wsj.com/search/term.html?min-date={}&max-date={}&isAdvanced={}&daysback={}&andor={}&sort={}&source={}&page={}' # URL for more than 1 days data
         self.links_each_news = {} # Draftly data print
         self.df = '' # Final data print
+
+        # Fixed Setting
+        self.page = '1'
+        self.isAdvanced = 'true'
+        self.andor = 'AND'
+        self.sort = 'date-desc'
+        self.source = 'wsjarticle'
 
     def request(self,day,date_start,date_end='',label_block=[]):
         """
@@ -37,23 +43,49 @@ class wall_street_crawler:
         #############################################
         """
         self.date_start = date_start
+        self.date_end = date_end
         self.day = day
 
         # Start to request
-        if day == '1d':
-            date_start = date_start.replace('/','')
-            res = requests.get(self.url_day.format(date_start),headers = self.headers)
+        if self.day == '1d':
+            self.date_start = date_start.replace('/','')
+            res = requests.get(self.url_day.format(self.date_start),headers = self.headers)
         else:
-            res = requests.get(self.url_day_above,headers = self.headers)
+            res = requests.get(self.url_day_above.format(
+                self.date_start,self.date_end,self.isAdvanced,            # Dynamic input variable
+                self.day,self.andor,self.sort,self.source,self.page       # Dynamic input variable
+            ),headers = self.headers)
         self.get_each_news_data(res,label_block)
 
     def get_each_news_data(self,res,label_block):
         """
         To get link from the main website for collecting data.
         """
-        raw_data = bs(res.content.decode(),'html.parser') # Initialize bs4 to clear data
-        for no,ele in enumerate(raw_data.ol.find_all('article')): # Get the link from every news
-            self.links_each_news[str(no)] = {'type' : ele.span.string,'link' : ele.a['href']}
+        if self.day == '1d':
+            raw_data = bs(res.content.decode(),'html.parser') # Initialize bs4 to clear data
+            for no,ele in enumerate(raw_data.ol.find_all('article')): # Get the link from every news
+                self.links_each_news[str(no)] = {'type' : ele.span.string,'link' : ele.a['href']}
+                print('Getting links from each page! Link : {}'.format(no + 1))
+        else:
+            raw_data = bs(res.content.decode(),'lxml')           
+            total_page = int(raw_data.find('li',class_ = 'results-count').string.split(' ')[0].split('-')[1])
+            count = 0
+            for page_num in range(total_page):
+                url = self.url_day_above.format(
+                    self.date_start,self.date_end,self.isAdvanced,    # Dynamic input variable
+                    self.day,self.andor,self.sort,self.source,page_num + 1      # Dynamic input variable
+                )              
+                res = requests.get(url,headers = self.headers)
+                raw_data = bs(res.content.decode(),'lxml')
+                raw_data = raw_data.find('ul',class_ = 'items hedSumm').find_all('div',class_ = 'item-container headline-item')
+                for ele in raw_data:
+                    count+=1
+                    self.links_each_news[str(count)] = {
+                        'type' : ele.a.string,
+                        'link' : 'https://www.wsj.com' + ele.h3.a['href']
+                    }
+                print('Getting links from each page! Page : {} / {}'.format(page_num + 1,total_page))
+        print('Get links complete !')
         self.process_data(label_block)
 
     def process_data(self,label_block:list):
@@ -71,31 +103,35 @@ class wall_street_crawler:
                     title = self.is_empty(raw_data_each.find('h1',class_ = 'wsj-article-headline')) # Get title
                     sub_title = self.is_empty(raw_data_each.find('h2',class_ = 'sub-head')) # Get sub-title
                     content = ''
+                    # Get article content with different way
                     try:
                         for each_para in raw_data_each.find('div',class_ = 'wsj-snippet-body').find_all('p'):
                             content = content + format(each_para.string) # Get content(might be partial content)
                     except:
                         for each_para in raw_data_each.find('div',class_ = 'article-content').find_all('p'):
                             content = content + format(each_para.string) # Get content(might be partial content)
-                    data_to_df.append([title,sub_title,content])
-                    sleep(1) # Pause 1 sec for avoiding IP block
-                    count+=1
+                    # Get article date with different way
+                    try:
+                        d_date = raw_data_each.time.string.split('Updated')[1].split('ET')[0].split(' ')
+                        date =  d_date[2].split(',')[0] + '-' + self.convert_month(d_date[1]) + '-' + d_date[3]
+                    except:
+                        d_date = [d for d in raw_data_each.time.string.split(' ') if d != '']
+                        date = d_date[2].split(',')[0] + '-' + self.convert_month(d_date[1]) + '-' + d_date[3]
+                    # Push scrapped data to list
+                    data_to_df.append([date,title,sub_title,content])
+                    sleep(1) # Pause 1 sec to avoid IP block
+                    count+=1 # Counting number of downloaded article
                     print('Downloading.... {}'.format(count))
             print('Number of download data: {}'.format(len(data_to_df)))
         except Exception as e: # Print out error news
-            print('Error: Failed to download! \n' ,
-                'Failed Detail: \n' ,
-                '-> type: {} \n '.format(self.links_each_news[each_no]['type']) ,
-                '-> link: {} \n '.format(self.links_each_news[each_no]['link']) ,
-                '-> number: {} \n '.format(each_no) ,
-                '-> error: {} \n '.format(e))
+                self.print_err(self.links_each_news[each_no]['type'],self.links_each_news[each_no]['link'],each_no,e)
         self.to_dataframe(data_to_df)
     
     def to_dataframe(self,data_to_df):
         """
         To change clean data to dataframe.
         """
-        columns = ['title','sub_title','content'] # Columns' name
+        columns = ['date','title','sub_title','content'] # Columns' name
         self.df = pd.DataFrame(data_to_df,columns = columns)
 
         # Clean "ENTER" symbol
@@ -107,8 +143,9 @@ class wall_street_crawler:
         """
         To save as csv file.
         """
-        self.df.to_csv('WSJ_{}_{}_data.csv'.format(self.date_start,self.day),encoding='utf8')
+        self.df.to_csv('WSJ_{}_data.csv'.format(self.day),index = False,header = True)
 
+############################## OPTIONAL FUNCTION ##############################
     def is_empty(self,content):
         """
         To check content is empty or is existing.
@@ -124,12 +161,70 @@ class wall_street_crawler:
         """
         return content.replace('\n','')
 
+    def convert_month(self,month):
+        """
+        To convert month in number format or word format.
+        """
+        month_dict = {
+            'January' : 1,
+            'February' : 2,
+            'March' : 3,
+            'April' : 4,
+            'May' : 5,
+            'June' : 6,
+            'July' : 7,
+            'August' : 8,
+            'September' : 9,
+            'October' : 10,
+            'November' : 11,
+            'December' : 12
+        }
+        
+        try:
+            if isinstance(month,str):
+                return str(month_dict[month])
+            elif isinstance(month,int):
+                if month in month_dict.values():
+                    key_list = list(month_dict.keys())
+                    val_list = list(month_dict.values())
+                    return key_list[val_list.index(month)]
+                else:
+                    print("Error: {}, Month input doesn't match the format!".format(month))
+        except:
+            print("Error: {}, Month input doesn't match the format!".format(month))
 
-DAY = '1d'
-START_DATE = '2020/04/22' 
-END_DATE = ''
+    def print_err(self,type_,link,num,err):
+        """
+        To print out exception error.
+        """
+        print('Error: Failed to download! \n' ,
+        'Failed Detail: \n' ,
+        '-> type: {} \n '.format(type_) ,
+        '-> link: {} \n '.format(link) ,
+        '-> number: {} \n '.format(num) ,
+        '-> error: {} \n '.format(err)
+        )
+
+############################## OPTIONAL FUNCTION ##############################
+
+####### 1d FORMAT #######
+# DAY = '1d'
+# START_DATE = '2020/04/22' 
+# END_DATE = ''
+# LABEL_BLOCK = ['Opinion']
+
+# wsj_crawler = wall_street_crawler()
+# wsj_crawler.request(DAY,START_DATE,END_DATE,LABEL_BLOCK)
+# wsj_crawler.to_csv()
+# print(wsj_crawler.df)
+
+####### 1d ABOVE FORMAT #######
+DAY = '2d'
+START_DATE = '2020/04/21' 
+END_DATE = '2020/04/23'
 LABEL_BLOCK = ['Opinion']
 
 wsj_crawler = wall_street_crawler()
 wsj_crawler.request(DAY,START_DATE,END_DATE,LABEL_BLOCK)
+wsj_crawler.to_csv()
 print(wsj_crawler.df)
