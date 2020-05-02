@@ -1,6 +1,11 @@
 import requests
 import pandas as pd
+import json
+# from Free_Proxy_List import * # Effectiveness
 from time import sleep
+from random import randint
+from stem import Signal
+from stem.control import Controller
 from bs4 import BeautifulSoup as bs
 
 class wall_street_crawler:
@@ -8,19 +13,8 @@ class wall_street_crawler:
         """
         To initialize the basic settings.
         """
-        self.headers = {
-            'accept-encoding' : 'gzip, deflate, br',
-            'accept-language' : 'zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7',
-            'cache-control' : 'max-age=0',
-            'cookie' : 'MicrosoftApplicationsTelemetryDeviceId=2e60f7c3-7fde-c5f7-259f-fcfde1e2d33c; MicrosoftApplicationsTelemetryFirstLaunchTime=1587214359886; DJSESSION=country%3Dtw%7C%7Ccontinent%3Das%7C%7Cregion%3D%7C%7Ccity%3Dtaipei%7C%7Clatitude%3D25.02%7C%7Clongitude%3D121.45%7C%7Ctimezone%3Dgmt%2B8; gdprApplies=false; ccpaApplies=false; ab_uuid=6594e524-20fd-4293-ab22-284c99a52be4; usr_bkt=63L1D4y2F9; __gads=ID=68c1d53f31c0b600:T=1587214329:S=ALNI_MbzPovsiqCCINO9cmaiYJjI7Rm0iA; AMCVS_CB68E4BA55144CAA0A4C98A5%40AdobeOrg=1; s_cc=true; _mibhv=anon-1585113403007-9784984535_4171; _micpn=esp:-1::1587214334860; _scid=30146b1f-a532-40d7-a98a-ae0d3f4b4bc3; cX_P=k86vleid5ozh3fza; cX_S=k95mfnb6lozeywsx; _fbp=fb.1.1587214335751.1743228894; OB-USER-TOKEN=0af581a4-df4d-4663-8ffa-0f37034a0203; bkuuid=XA0QnxR999OJpooK; _ncg_g_id_=64227cdf-0f9b-4561-9a8d-7dc3b9248709; cX_G=cx%3A178ygmx2pqwx9n46tvapcofhv%3A2cw8rxy6pqz01; __qca=P0-389897079-1587214336959; _sctr=1|1587139200000; __adroll_fpc=abed96594d298a87326c355f85fe083e-1587214366004; _ntv_uid=0cf20779-fd58-4970-b553-12feff3bb3a0; kuid=u3l8xn21p; ksg=sgho4iyqy; usr_prof_v2=eyJpYyI6NX0%3D; hok_seg=none; djvideovol=1; MicrosoftApplicationsTelemetryFirstLaunchTime=1587493052071; MicrosoftApplicationsTelemetryDeviceId=c09bd020-b0eb-ce58-98ce-c1a29fdba114; test_key=0.02129019173271307; vidoraUserId=gb78j5m2tc95ulrb8lhq1tpobe6l37; _ncg_id_=171148328e1-64971cd1-ae7a-4c0a-b913-f2413cdb9bbd; __ar_v4=BLKVHZP6SRDZ3E5KVJS2CU%3A20200418%3A18%7CVVQU6E37EJBTDLQXFNU22G%3A20200418%3A18%7CUBK2BTYVYBEGTHKRZO6NVW%3A20200418%3A18; wsjregion=na%2Cus; AMCV_CB68E4BA55144CAA0A4C98A5%40AdobeOrg=1585540135%7CMCIDTS%7C18375%7CMCMID%7C18737543708374052700206986505413105341%7CMCAAMLH-1588146456%7C11%7CMCAAMB-1588146456%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1587548856s%7CNONE%7CMCAID%7CNONE%7CvVersion%7C4.4.0; _ncg_sp_ses.5378=*; _parsely_session={%22sid%22:9%2C%22surl%22:%22https://www.wsj.com/news/economy%22%2C%22sref%22:%22https://www.wsj.com/%22%2C%22sts%22:1587541750687%2C%22slts%22:1587498083394}; _parsely_visitor={%22id%22:%22fdac8037-f48d-4d20-bb34-c240dcedf688%22%2C%22session_count%22:9%2C%22last_session_ts%22:1587541750687}; GED_PLAYLIST_ACTIVITY=W3sidSI6IlVlV28iLCJ0c2wiOjE1ODc1NDYxNTAsIm52IjowLCJ1cHQiOjE1ODc0OTI5NTQsImx0IjoxNTg3NDkzMTExfV0.; ResponsiveConditional_initialBreakpoint=lg; s_sq=%5B%5BB%5D%5D; utag_main=v_id:01718d58b5870096b6fded4e4d0003073001a06b00bd0$_sn:8$_se:20$_ss:0$_st:1587548578260$vapi_domain:wsj.com$ses_id:1587541656618%3Bexp-session$_pn:20%3Bexp-session$_prevpage:WSJ_Summaries_Archive_NewsArchive%3Bexp-1587550378276; s_tp=4077; s_ppv=WSJ_Summaries_Archive_NewsArchive%2C23%2C23%2C937; _ncg_sp_id.5378=30a2b02b-33c9-42a4-92b4-d9f5153b9295.1585113403.1.1587546779.1585113403.fb3298b0-fc60-46c2-9dbc-1f0758cf8e52; _tq_id.TV-63639009-1.1fc3=74200c6d03e7a60b.1587214364.0.1587546779..',
-            'sec-fetch-dest' : 'document',
-            'sec-fetch-mode' : 'navigate',
-            'sec-fetch-site' : 'none',
-            'upgrade-insecure-requests' : '1',
-            'user-agent' : 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36'
-        }
         self.url_day = 'https://www.wsj.com/news/archive/{}' # URL for 1 day data
-        self.url_day_above = 'https://www.wsj.com/search/term.html?min-date={}&max-date={}&isAdvanced={}&daysback={}&andor={}&sort={}&source={}&page={}' # URL for more than 1 days data
+        self.url_day_above = 'https://www.wsj.com/search/term.html?min-date={}&max-date={}&isAdvanced={}&daysback={}&andor={}&sort={}&source={}' # URL for more than 1 days data
         self.links_each_news = {} # Draftly data print
         self.df = '' # Final data print
 
@@ -30,6 +24,20 @@ class wall_street_crawler:
         self.andor = 'AND'
         self.sort = 'date-desc'
         self.source = 'wsjarticle'
+
+        self.headers = {
+            'accept-encoding' : 'gzip, deflate, br',
+            'accept-language' : 'zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+            'cache-control' : 'max-age=0',
+            'cookie' : "MicrosoftApplicationsTelemetryDeviceId=cd5ea44c-1b3b-0cdd-dca3-e6e26312f244; MicrosoftApplicationsTelemetryFirstLaunchTime=1588001380771; ResponsiveConditional_initialBreakpoint=lg; _fbp=fb.1.1588001385475.457600159; _parsely_session={" + "%22sid%22:1%2C%22surl%22:%22{}&page={}".format(self.url_day_above,self.page) +"%22%2C%22sref%22:%22%22%2C%22sts%22:1588001385523%2C%22slts%22:0}; _parsely_visitor={%22id%22:%22fdac8037-f48d-4d20-bb34-c240dcedf688%22%2C%22session_count%22:1%2C%22last_session_ts%22:1588001385523}; wsjregion=na%2Cus; gdprApplies=false; ccpaApplies=false; ab_uuid=dbd993a8-2b5d-4ff9-988b-22c7453b853e; usr_bkt=1p6sdUNJWD; test_key=0.8938667562079046; AMCVS_CB68E4BA55144CAA0A4C98A5%40AdobeOrg=1; kuid=u4mo1iaxv; ksg=ue57wz7wy,ue5q336cz,sgho4iyqy,ue5uid965; AMCV_CB68E4BA55144CAA0A4C98A5%40AdobeOrg=1585540135%7CMCIDTS%7C18380%7CMCMID%7C18737543708374052700206986505413105341%7CMCAAMLH-1588606188%7C11%7CMCAAMB-1588606188%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1588008588s%7CNONE%7CMCAID%7CNONE%7CvVersion%7C4.4.0; s_cc=true; _ncg_g_id_=64227cdf-0f9b-4561-9a8d-7dc3b9248709; _ncg_id_=171148328e1-64971cd1-ae7a-4c0a-b913-f2413cdb9bbd; _ncg_sp_ses.5378=*; rdt_uuid=7151c733-0a93-4b3c-b3d8-dd2cc4f88c1a; _mibhv=anon-1585113403007-9784984535_4171; _micpn=esp:-1::1587989012188; _scid=85cf00f3-3f27-483a-87c2-36990120777f; OB-USER-TOKEN=0af581a4-df4d-4663-8ffa-0f37034a0203; cX_P=k86vleid5ozh3fza; cX_S=k9in0zlsijt1q8jh; __qca=P0-822237915-1588001391298; __gads=ID=3c68b0f8bf180bab:T=1588001391:S=ALNI_MYoIk1ppy5N9ClhQwedb19n9cWxnQ; _sctr=1|1587916800000; usr_prof_v2=eyJpYyI6NH0%3D; utag_main=v_id:0171bc4235300036725d0c86ff7203073009406b00bd0$_sn:1$_se:2$_ss:0$_st:1588003285776$ses_id:1588001387826%3Bexp-session$_pn:2%3Bexp-session$_prevpage:WSJ_ResearchTools_Search%20Results%20%7C%20Wall%20Street%20Journal%3Bexp-1588005085785$vapi_domain:wsj.com; _tq_id.TV-63639009-1.1fc3=39dac461496b5de7.1588001390.0.1588001488..; _ncg_sp_id.5378=30a2b02b-33c9-42a4-92b4-d9f5153b9295.1585113403.1.1588001491.1585113403.fb3298b0-fc60-46c2-9dbc-1f0758cf8e52; hok_seg=none; s_tp=5168; s_ppv=WSJ_ResearchTools_Search%2520Results%2520%257C%2520Wall%2520Street%2520Journal%2C18%2C18%2C93",
+            'referer' : self.url_day_above,
+            'sec-fetch-dest' : 'document',
+            'sec-fetch-mode' : 'navigate',
+            'sec-fetch-site' : 'same-origin',
+            'upgrade-insecure-requests' : '1',
+            'user-agent' : 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36'
+        }
+        self.proxies = { 'http' : '' } # Avoid IP blocking
 
     def request(self,day,date_start,date_end='',label_block=[]):
         """
@@ -52,9 +60,9 @@ class wall_street_crawler:
             res = requests.get(self.url_day.format(self.date_start),headers = self.headers)
         else:
             res = requests.get(self.url_day_above.format(
-                self.date_start,self.date_end,self.isAdvanced,            # Dynamic input variable
-                self.day,self.andor,self.sort,self.source,self.page       # Dynamic input variable
-            ),headers = self.headers)
+                self.date_start,self.date_end,self.isAdvanced,   # Dynamic input variable
+                self.day,self.andor,self.sort,self.source        # Dynamic input variable
+            ) + '&page={}'.format(self.page),headers = self.headers)
         self.get_each_news_data(res,label_block)
 
     def get_each_news_data(self,res,label_block):
@@ -67,15 +75,15 @@ class wall_street_crawler:
                 self.links_each_news[str(no)] = {'type' : ele.span.string,'link' : ele.a['href']}
                 print('Getting links from each page! Link : {}'.format(no + 1))
         else:
-            raw_data = bs(res.content.decode(),'lxml')           
-            total_page = int(raw_data.find('li',class_ = 'results-count').string.split(' ')[0].split('-')[1])
+            raw_data = bs(res.content.decode(),'lxml')
+            total_page = int(raw_data.find_all('li',class_ = 'results-count')[1].string.split(' ')[1])
+            total_download = raw_data.find('li',class_ = 'results-count').string.split(' ')[2]
             count = 0
-            for page_num in range(total_page):
-                url = self.url_day_above.format(
-                    self.date_start,self.date_end,self.isAdvanced,    # Dynamic input variable
-                    self.day,self.andor,self.sort,self.source,page_num + 1      # Dynamic input variable
-                )              
-                res = requests.get(url,headers = self.headers)
+            for page_num in range(total_page):     
+                res = requests.get(self.url_day_above.format(
+                    self.date_start,self.date_end,self.isAdvanced,   # Dynamic input variable
+                    self.day,self.andor,self.sort,self.source        # Dynamic input variable
+                ) + '&page={}'.format(page_num+1),headers = self.headers)
                 raw_data = bs(res.content.decode(),'lxml')
                 raw_data = raw_data.find('ul',class_ = 'items hedSumm').find_all('div',class_ = 'item-container headline-item')
                 for ele in raw_data:
@@ -85,20 +93,22 @@ class wall_street_crawler:
                         'link' : 'https://www.wsj.com' + ele.h3.a['href']
                     }
                 print('Getting links from each page! Page : {} / {}'.format(page_num + 1,total_page))
+                # print('Type: {} ,\n Link: {}'.format(self.links_each_news[str(count)]['type'],self.links_each_news[str(count)]['link']))
+            self.to_JSON('Links_Each_News',self.links_each_news,total_download)
         print('Get links complete !')
-        self.process_data(label_block)
+        self.process_data(label_block,total_download)
 
-    def process_data(self,label_block:list):
+    def process_data(self,label_block:list,total_download):
         """
         To process the raw data.
         """
         data_to_df = [] # Save clean data in the regular format
         count = 0 # Count download data
 
-        try:
-            for each_no in self.links_each_news:
+        for each_no in self.links_each_news:
+            try:
                 if self.links_each_news[each_no]['type'] not in label_block: # Classify data by label condition 
-                    res_each = requests.get(self.links_each_news[each_no]['link'],headers = self.headers)
+                    res_each = requests.get(self.links_each_news[each_no]['link'],headers = self.headers,proxies = self.proxies)
                     raw_data_each = bs(res_each.content.decode(),'html.parser')
                     title = self.is_empty(raw_data_each.find('h1',class_ = 'wsj-article-headline')) # Get title
                     sub_title = self.is_empty(raw_data_each.find('h2',class_ = 'sub-head')) # Get sub-title
@@ -119,12 +129,20 @@ class wall_street_crawler:
                         date = d_date[2].split(',')[0] + '-' + self.convert_month(d_date[1]) + '-' + d_date[3]
                     # Push scrapped data to list
                     data_to_df.append([date,title,sub_title,content])
-                    sleep(1) # Pause 1 sec to avoid IP block
+                    # sleep(randint(1,3)) # Pause 1 sec to avoid IP block
                     count+=1 # Counting number of downloaded article
-                    print('Downloading.... {}'.format(count))
-            print('Number of download data: {}'.format(len(data_to_df)))
-        except Exception as e: # Print out error news
-                self.print_err(self.links_each_news[each_no]['type'],self.links_each_news[each_no]['link'],each_no,e)
+                    print('Downloading.... {} / {}'.format(count,total_download))
+                    # Renew IP if get 10 data
+                    if count % 5 == 0:
+                        self.renew_connection()
+                        session = self.get_tor_session()
+                        temp_IP = session.get("http://httpbin.org/ip").json()['origin']
+                        self.proxies['http'] = temp_IP
+                        print('Switch IP to: {}'.format(temp_IP))
+
+            except Exception as e: # Print out error news
+                    self.print_err(self.links_each_news[each_no]['type'],self.links_each_news[each_no]['link'],each_no,e)
+        print('Number of download data: {}'.format(len(data_to_df)))
         self.to_dataframe(data_to_df)
     
     def to_dataframe(self,data_to_df):
@@ -143,7 +161,15 @@ class wall_street_crawler:
         """
         To save as csv file.
         """
-        self.df.to_csv('WSJ_{}_data.csv'.format(self.day),index = False,header = True)
+        self.df.to_csv('WSJ_{}_data.csv'.format(self.day),index = False,header = True,encoding='utf-8')
+    
+    def to_JSON(self,file_name,dict_file,indent):
+        """
+        To save as JSON file.
+        """
+        out_file = open("{}.json".format(file_name), "w")  
+        json.dump(dict_file, out_file, indent = indent)  
+        out_file.close()  
 
 ############################## OPTIONAL FUNCTION ##############################
     def is_empty(self,content):
@@ -205,6 +231,23 @@ class wall_street_crawler:
         '-> error: {} \n '.format(err)
         )
 
+    def get_tor_session(self):
+        """
+        To get a current session's IP address.
+        """
+        session = requests.session()
+        # Tor uses the 9050 port as the default socks port
+        session.proxies = {'http':  'socks5://127.0.0.1:9050',
+                        'https': 'socks5://127.0.0.1:9050'}
+        return session
+
+    def renew_connection(self):
+        """
+        To renew IP for avoiding band IP address.
+        """
+        with Controller.from_port(port = 9051) as controller:
+            controller.authenticate(password="weijie12")
+            controller.signal(Signal.NEWNYM)
 ############################## OPTIONAL FUNCTION ##############################
 
 ####### 1d FORMAT #######
@@ -219,12 +262,13 @@ class wall_street_crawler:
 # print(wsj_crawler.df)
 
 ####### 1d ABOVE FORMAT #######
-DAY = '2d'
-START_DATE = '2020/04/21' 
-END_DATE = '2020/04/23'
-LABEL_BLOCK = ['Opinion']
+if __name__ == "__main__":
+    DAY = '90d'
+    START_DATE = '2020/01/01' 
+    END_DATE = '2020/04/01'
+    LABEL_BLOCK = ['Opinion']
 
-wsj_crawler = wall_street_crawler()
-wsj_crawler.request(DAY,START_DATE,END_DATE,LABEL_BLOCK)
-wsj_crawler.to_csv()
-print(wsj_crawler.df)
+    wsj_crawler = wall_street_crawler()
+    wsj_crawler.request(DAY,START_DATE,END_DATE,LABEL_BLOCK)
+    wsj_crawler.to_csv()
+    print(wsj_crawler.df)
