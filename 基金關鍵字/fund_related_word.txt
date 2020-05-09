@@ -1,0 +1,106 @@
+Exchange-Traded Fund, 指數股票型基金
+Special Situation Fund, 特別情況（時機）基金
+Stabilization Fund, 平準基金
+Private Fund, 私募基金
+Principal Guaranteed Fund, 保本型基金
+Offshore Fund, 境外基金
+Onshore Fund, 國內基金
+ETF, 指數股票型基金
+Bonds ETF, 債券型ETF
+Equity ETF, 資產型ETF(股票型ETF)
+Commodity ETF, 商品型ETF
+Currency ETF, 貨幣型ETF
+Multi-Asset ETF, 多元資產ETF(持有股、債或各種資產類型)
+Preferred Stock ETF, 特別股ETF(專門投資特別股/優先股)
+Real Estate, 房地產型ETF
+Volatility, 波動率型ETF
+Expense Ratio, 支出比率
+YTD, 一年以來報酬率的意思
+Annual Dividend Rate, 配息金額(現金股利)
+Annual Dividend Yield, 年股息殖利率(現金殖利率)
+Dividend Frequency, 配息頻率
+Holdings, 持股(談各類商品資產持股比重)
+Liquidity, 流動性
+Avg. Volume, 平均成交量
+Average Volume, 平均成交量
+Fund Flows, 資金流量/流進流出
+Preferred stock, 特別股
+Investment objective, 投資目標
+Investment universe, 投資範圍
+Investment constraints, 投資限制
+Management fee, 管理費
+Custodian fee, 保管費
+Front-end load, 申購手續費
+Back-end load, 贖回手續費
+Transfer fee, 轉換費
+AUM, 基金管理規模
+Asset under management, 基金管理規模
+Dividend, 配息
+Underlying securities, 基金的投資組合內容
+Standard deviation, 標準差
+Beta, 貝他值：代表個別基金對整體市場風險之敏感度
+Tracking Error, 追蹤誤差
+Sharp Ratio, 夏普指數
+Jensen Index, 詹森指標
+Treynor Index, 崔納指標
+Information Ratio, 資訊比率
+
+Acid Test Ratio/Quick Ratio, 酸性測試/速動比率
+Average Life, 平均壽命
+Appraisal Ratio, 績效評估比率
+Average Yield, 平均收益率
+Average Duration, 平均存續期間
+Amortization, 攤銷
+Average Rate of Return, 平均報酬率
+Arbitrage Pricing Theory, 套利訂價模式
+APT, 套利訂價模式
+Abnormal Return, 異常報酬
+Excess Return, 超額報酬
+Actual Market Value, 市場價值
+Accrued Interest, 應計利息
+Best Effort, 代銷
+Blue Chip Stocks, 藍籌股
+Back-end load, 贖回手續費
+Bond Equivalent Yield, 債券約當收益率
+Bull Market, 牛市：指多頭市場，表看好股市前景，認為股價將大幅上漲
+Beneficiary Certificate, 受益憑證
+Benchmark, 參考指標
+Cash Flow, 現金流量
+CF, 現金流量
+Centralized Market, 集中市場
+Convertible Bond Fund, 可轉換公司債基金
+Credit Ratings, 信用評比
+Coefficient of Variation, 變異係數
+Corporate Bond, 公司債 
+Currency Hedging, 匯率避險
+Current Ratio, 流動比率
+Closed-end Fund, 封閉型基金
+Call Option, 買權
+Carry, 有息
+Credit Risk, 信用風險
+Coupon、Coupon Rate, 票息、票面利率
+Dollar Duration, 價格存續期間
+Earnings Growth Rate, 盈餘成長率
+Earnings Per Share, 每股盈餘
+EPS, 每股盈餘
+Fund of Funds, 組合基金/基金中的基金
+Gross Profit Margin, 毛利率
+Futures Contract, 期貨契約 
+Forward Contract, 遠期契約
+Fund Clearing, 基金終止
+Federal Funds Rate, 聯邦基準利率
+Hybrid Fund, 平衡型基金
+High Yield Bond, 高收益債券
+Hedge, 避險
+Hedge Fund, 避險基金
+IPO, 首次公開發行/初始股
+Interest Rate, 利率
+Investment Grade, 投資等級
+Income Fund, 配息基金
+Net Asset Value, 基金淨值
+NAV, 基金淨值
+OTC Fund, 店頭市場基金
+Open-end Fund, 開放型基金
+Price-Earnings Ratio, 本益比
+P/E, 本益比
+Subscribe, 申購
